@@ -1,0 +1,812 @@
+{
+  "code": 0,
+  "data": {
+    "has_more": false,
+    "products": [
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714781221",
+            "index": 0,
+            "name": "便利生活"
+          },
+          "description": "天气Plugin。提供省、市、区县的未来40天的天气情况，包括温度、湿度、日夜风向等。",
+          "entity_id": "7326774526069489701",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 105,
+          "heat": 7122,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0c3308e77aa647559614d32f5184b1bc~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=4OJAMDDr6k%2BAU5AHrT132ULx6IA%3D",
+          "id": "7329787887074197545",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706684799",
+          "name": "墨迹天气",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"天气Plugin。提供省、市、区县的未来40天的天气情况，包括温度、湿度、日夜风向等。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 7017,
+          "tools": [
+            {
+              "description": "获取指定日期的天气",
+              "id": "7326770499395239946",
+              "name": "DayWeather",
+              "parameters": [
+                {
+                  "description": "待查询结束日期",
+                  "name": "end_time",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "省份名，不要包括直辖市(比如：北京、北京市、北京省、天津市、上海市、重庆市)",
+                  "name": "province",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "待查询开始日期",
+                  "name": "start_time",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "区/县/镇",
+                  "name": "towns",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "乡/村",
+                  "name": "villages",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "市名，包括直辖市，比如：北京市、天津市、上海市、重庆市",
+                  "name": "city",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714863141",
+            "index": 0,
+            "name": "金融与商业"
+          },
+          "description": "银行利率查询，可查询指定银行的贷款利率、存款利率、公积金利率",
+          "entity_id": "7326768020376928306",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 52,
+          "heat": 2157,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/8900108a134f40f2960bdec919216828~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=ra1BlgScGyt2rP8XaVgcITc%2BgWA%3D",
+          "id": "7329411028809334825",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706683687",
+          "name": "国内银行利率",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"银行利率查询，可查询指定银行的贷款利率、存款利率、公积金利率\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 2105,
+          "tools": [
+            {
+              "description": "银行利率查询，可查询指定银行的贷款利率、存款利率、公积金利率",
+              "id": "7326768020376944690",
+              "name": "BankInterestRate",
+              "parameters": [
+                {
+                  "description": "银行名。比如农业银行、工商银行、招商银行、中国银行",
+                  "name": "bank",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "查询日期。比如：2023/01/02",
+                  "name": "time",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "利率类型。枚举值：存款利率、商业贷款利率、公积金贷款利率",
+                  "name": "type",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714781221",
+            "index": 0,
+            "name": "便利生活"
+          },
+          "description": "快递状态查询",
+          "entity_id": "7327498878146625573",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 25,
+          "heat": 1598,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/03cb422fdeb34d7aa8de8d163bc4d565~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=3vzZqoUd4Y%2FWw6hViyfAehYisyU%3D",
+          "id": "7329788013695860747",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706683651",
+          "name": "国内快递查询",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"快递状态查询\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 1573,
+          "tools": [
+            {
+              "description": "快递状态查询",
+              "id": "7327498878146641957",
+              "name": "ExpressDeliveryPlugin",
+              "parameters": [
+                {
+                  "description": "快递单号",
+                  "name": "express_number",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "快递公司名称",
+                  "name": "express_name",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714781221",
+            "index": 0,
+            "name": "便利生活"
+          },
+          "description": "如果你想要查询汽车信息，包括二手车、新车、某些车型的信息时可以使用此插件进行查询",
+          "entity_id": "7325002728516796450",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 84,
+          "heat": 3356,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c8ab3a6667fa442fb78b0973238bf544~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=by0zkFNCBHozi8JcSs%2F5VS9GYEY%3D",
+          "id": "7329410795979325503",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706683615",
+          "name": "懂车帝",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"如果你想要查询汽车信息，包括二手车、新车、某些车型的信息时可以使用此插件进行查询\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 3272,
+          "tools": [
+            {
+              "description": "当你查询二手车的售卖信息时候可以使用此工具，可以获得二手车的价格、二手车车况图片等信息",
+              "id": "7325002728516812834",
+              "name": "SecondHandCar",
+              "parameters": [
+                {
+                  "description": "期望查询的汽车品牌，如宝马、奥迪",
+                  "name": "brand",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询二手车的城市",
+                  "name": "city",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的二手车类型、如中型suv、紧凑型轿车等",
+                  "name": "grade",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询二手车的价格范围",
+                  "name": "price_tag",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的车系，如宝马1系、奥迪a4等",
+                  "name": "series",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "当你需要查询新车信息或者查询某个特定车系（如宝马3系，奔驰e级）信息的时候可以使用此工具，可以获得新车价格，车辆结构，车辆生产年份，售卖链接等信息",
+              "id": "7325702773411004425",
+              "name": "CarSeries",
+              "parameters": [
+                {
+                  "description": "期望查询的车系，如宝马3系、奔驰e级",
+                  "name": "series",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 2
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714781221",
+            "index": 0,
+            "name": "便利生活"
+          },
+          "description": "提供二手房、新房、租房信息的插件，想要查询某个城市、区域、户型的房产信息时，可以使用此插件",
+          "entity_id": "7325003032746311714",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 38,
+          "heat": 1523,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/7563cb5a077548e781062eed26575310~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=VKfB1NtsK6sgEsiwqtvMqXy8rdQ%3D",
+          "id": "7329411028809187369",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706683588",
+          "name": "幸福里",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"提供二手房、新房、租房信息的插件，想要查询某个城市、区域、户型的房产信息时，可以使用此插件\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 1485,
+          "tools": [
+            {
+              "description": "如果想要购买二手房或者查询二手房信息的时候可以使用此工具，输入二手房的城市、户型、小区名称等，可以获取二手房所在的区域，房子图片，二手房总价，每平米价格等信息",
+              "id": "7325698959328968713",
+              "name": "SecondHandHouse",
+              "parameters": [
+                {
+                  "description": "期望查询的城市",
+                  "name": "city",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的行政区，如海淀、朝阳",
+                  "name": "district",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的房子结构，如1居、2居等",
+                  "name": "house_layout",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的小区名称",
+                  "name": "house_name",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的区域，如三里屯、十里河",
+                  "name": "region",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "如果你想买新房，可以先用这个工具获取新房的信息，输入想要的户型、区域、城市、小区名称等，可以获取新房的具体信息，包括房子图片，价格，每平米价格等",
+              "id": "7325696997799919666",
+              "name": "NewHouse",
+              "parameters": [
+                {
+                  "description": "期望查询的区域，如三里屯，十里河",
+                  "name": "region",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的城市",
+                  "name": "city",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的行政区，如海淀、朝阳",
+                  "name": "district",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的房间布局",
+                  "name": "house_layout",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的小区名称",
+                  "name": "house_name",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "通过此工具获取租房的信息，包括房子所在的区域，小区名称，房子图片，租房的价格",
+              "id": "7325003032746328098",
+              "name": "HouseRenting",
+              "parameters": [
+                {
+                  "description": "期望查询的城市",
+                  "name": "city",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的行政区、如海淀、昌平",
+                  "name": "district",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的房间布局，如1居、2居、3居等",
+                  "name": "house_layout",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的小区名称",
+                  "name": "house_name",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "期望查询的区域、如梅溪湖、三里屯",
+                  "name": "region",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 3
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "强大的数学工具",
+          "entity_id": "7304836636230221861",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 142,
+          "heat": 7601,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/d30335a0c5134348a4899dceadc8365c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=c3%2FSuNOpXwr4yqxrt4K%2BRpxygrA%3D",
+          "id": "7328314516272463923",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706679838",
+          "name": "Wolfram Alpha",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"强大的数学工具\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 7459,
+          "tools": [
+            {
+              "description": "算式计算，如1+1=2。如果输入的不是数学表达式，需要将输入转换成数学表达式并添加\"()\"以确保运算的顺序。如果计算失败，尝试再次调用此工具。",
+              "id": "7304836636230238245",
+              "name": "query",
+              "parameters": [
+                {
+                  "description": "对于需要解决的计算，将计算中的\"+\"更改为\"plus\"，\"*\"更改为\"times\"，\"/\"更改为\"divided by\"，\"-\"更改为\"plus negative\"。如果输入不是英语，需要将其转换为英语。",
+                  "name": "i",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "这个插件具有多个擅长使用代码解决问题的工具。",
+          "entity_id": "7313851779555426331",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 364,
+          "heat": 12588,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/414cd488a7ed4a04adc29800d419f17a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=NUg3WbcDJS3Qc6b7lJjPHR4T0pc%3D",
+          "id": "7328314220632834074",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706679713",
+          "name": "代码执行器",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"这个插件具有多个擅长使用代码解决问题的工具。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 12224,
+          "tools": [
+            {
+              "description": "这个插件将被调用来运行python代码并在60秒内获取结果，尤其处理数学、计算机、图片和文件等。首先，LLM将分析问题，并用python输出解决这个问题的步骤。其次，LLM立即生成代码，按照步骤解决问题。LLM会参考错误消息调整代码，直到成功。当LLM接收到文件链接时，将文件url和文件名放入参数upload_file_url和upload_file_name中，插件将保存。",
+              "id": "7313852330321952818",
+              "name": "CodeRunner",
+              "parameters": [
+                {
+                  "description": "代码",
+                  "name": "code",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用相应的文件名保存upload_file_url。",
+                  "name": "upload_file_name",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "当接收到文件链接时，插件会将其保存到\"/mnt/data\"",
+                  "name": "upload_file_url",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714781221",
+            "index": 0,
+            "name": "便利生活"
+          },
+          "description": "通过VariFlight覆盖的全球商业客运航班，您的终端用户可以轻松获得他们的航班状态、办理登机手续柜台、预计出发时间、登机口、登机状态、行李转盘等信息，并能在整个航程中随时掌握。",
+          "entity_id": "7321558708368998427",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 48,
+          "heat": 3756,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/e6fbf835a6f24d7984923c1ea488482b~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=cukD8FjObxKAQC80zUzabI7ffbY%3D",
+          "id": "7328314169139380234",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706679688",
+          "name": "飞常准",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"通过VariFlight覆盖的全球商业客运航班，您的终端用户可以轻松获得他们的航班状态、办理登机手续柜台、预计出发时间、登机口、登机状态、行李转盘等信息，并能在整个航程中随时掌握。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 3708,
+          "tools": [
+            {
+              "description": "获取航班列表",
+              "id": "7321558884995530761",
+              "name": "getRoute",
+              "parameters": [
+                {
+                  "description": "出发日期，默认为今天日期，例如：2023-12-19。注意格式需要是2023-01-03，不可以是2023-1-3等其他格式",
+                  "name": "depTime",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "到达城市名称，仅接受名称，不接受代码",
+                  "name": "arr",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "出发城市名称，不接受代码。",
+                  "name": "dep",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714748453",
+            "index": 0,
+            "name": "照片与摄影"
+          },
+          "description": "回答用户关于代表URL的图片的问题。",
+          "entity_id": "7281560856729501753",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 256,
+          "heat": 18740,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/9c8c026bdf4d40f0a7cd88a9e87be7ee~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=qmEawWHvrZ%2F3iU16T%2FVePKUlYIg%3D",
+          "id": "7328314686280138803",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706679589",
+          "name": "图片理解",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"回答用户关于代表URL的图片的问题。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 18484,
+          "tools": [
+            {
+              "description": "回答用户关于图像的问题",
+              "id": "7288245311594610745",
+              "name": "imgUnderstand",
+              "parameters": [
+                {
+                  "description": "用户关于图片的问题",
+                  "name": "text",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "图像的URL地址，可以从中下载图像的二进制信息",
+                  "name": "url",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "Notion 文档插件通过用户对集成的授权来支持获取用户文档的内容。\n\n插件会缓存用户token一个小时，因此目前变更文档授权范围又需要一个小时。\n目前，插件只能访问文档中最多3层的内容，不能无限制访问嵌套的内容。",
+          "entity_id": "7309832488279638025",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 124,
+          "heat": 4003,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/f470aecb0aae4313a48c18f7a2b640b6~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=xMuvzSRwFXtcKvPdBuGmFI81PRU%3D",
+          "id": "7328314363604025371",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706256186",
+          "name": "Notion",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"Notion 文档插件通过用户对集成的授权来支持获取用户文档的内容。\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"插件会缓存用户token一个小时，因此目前变更文档授权范围又需要一个小时。\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"目前，插件只能访问文档中最多3层的内容，不能无限制访问嵌套的内容。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 3879,
+          "tools": [
+            {
+              "description": "获取Notion文件信息",
+              "id": "7309832648292057114",
+              "name": "get_notion_document_info",
+              "parameters": [
+                {
+                  "description": "查询Notion块的数量",
+                  "name": "block_search_size",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "number"
+                },
+                {
+                  "description": "Notion文档的URL",
+                  "name": "document_url",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714732069",
+            "index": 0,
+            "name": "新闻阅读"
+          },
+          "description": "持续更新，了解最新的头条新闻和新闻文章。",
+          "entity_id": "7301970294808494089",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 185,
+          "heat": 11903,
+          "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c9f0b142cc144406b08dd2bc0cbfbf89~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=2bIyCurmze45hYAzFYPT8CCKX2Q%3D",
+          "id": "7328311079681949705",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1706255460",
+          "name": "头条新闻",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"持续更新，了解最新的头条新闻和新闻文章。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473481\u0026x-signature=hw8Mzn3y1GbwOfS1EcH68YlMLpM%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 11718,
+          "tools": [
+            {
+              "description": "搜索新闻讯息",
+              "id": "7301970294808510473",
+              "name": "getToutiaoNews",
+              "parameters": [
+                {
+                  "description": "搜索新闻的关键词，必须用中文",
+                  "name": "q",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      }
+    ],
+    "total": 0
+  },
+  "message": ""
+}

@@ -1,0 +1,919 @@
+[
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7341899372558467113"
+        }
+      ],
+      "user_count": 113
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "一个可以创作歌曲的Bot",
+      "entity_id": 7341899372558467000,
+      "entity_type": 1,
+      "entity_version": 1709858013115,
+      "favorite_count": 5,
+      "heat": 113,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/f5cf34f387c54e4783857c3a613a327f~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=tNzwnaa3oxyFt5VtFhcjK9x7n5k%3D",
+      "id": 7341851127123821000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709858042,
+      "name": "歌曲创作机",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/ee9c24818da1aa8ddc2b9e2f5177a68e~300x300.image",
+        "id": 0,
+        "name": "H1H1"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7342133956625612826"
+        }
+      ],
+      "user_count": 78
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "一个自动写歌词、自动作曲谱的音乐工具",
+      "entity_id": 7342133956625613000,
+      "entity_type": 1,
+      "entity_version": 1709474821299,
+      "favorite_count": 3,
+      "heat": 78,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a780220de32f45888f1a657118379327~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=%2FQn8zIyjxUKBScQhypcdr03cOP4%3D",
+      "id": 7342126254768046000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709474824,
+      "name": "音乐创作AI",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/d6679ca27ffa49b793b7603e41957e60~300x300.image",
+        "id": 0,
+        "name": "YEFZ"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340824385609138212"
+        }
+      ],
+      "user_count": 86
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "同音互译的同步翻译工具",
+      "entity_id": 7340824385609138000,
+      "entity_type": 1,
+      "entity_version": 1709169634223,
+      "favorite_count": 6,
+      "heat": 54,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/45e8db8acfb24bc491caa70f97dcbd80~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=LDQXNy4hBst3UQvZHDYrDcLa9RQ%3D",
+      "id": 7340817776900162000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709169636,
+      "name": "同音互译",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-flow-imagex-sign.byteimg.com/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~tplv-a9rns2rl98-icon-tiny.jpeg?rk3s=98c978ad&x-expires=1709256043&x-signature=Slh7Q%2BsxmAhnpAzmIVdjT%2Fqa4To%3D",
+        "id": 0,
+        "name": "用户7343908006251"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7342357459962478592"
+        }
+      ],
+      "user_count": 38
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "ai作曲",
+      "entity_id": 7342357459962479000,
+      "entity_type": 1,
+      "entity_version": 1709526952531,
+      "favorite_count": 2,
+      "heat": 38,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4d076a28630e4471a3e2681ba1443acb~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=EIqKkl%2Bb30SbdhyJgxSyQDNfkD8%3D",
+      "id": 7342355310323073000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709526955,
+      "name": "作曲家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/341f4776a72c3d8f0ba4251e11708476~300x300.image",
+        "id": 0,
+        "name": "zqk007007"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7342470488838488127"
+        }
+      ],
+      "user_count": 26
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "一个可以为你创作音乐的 Bot",
+      "entity_id": 7342470488838488000,
+      "entity_type": 1,
+      "entity_version": 1709554174883,
+      "favorite_count": 1,
+      "heat": 26,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/d2a0982871c4497da8279e159b17025a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=Qrw%2BSzL3JcG3Rivq6Ig0vGzcaDM%3D",
+      "id": 7342474817418854000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709554177,
+      "name": "音乐魔法师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/d9af998215da59538047d88f284b086f~300x300.image",
+        "id": 0,
+        "name": "DW_99"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340916506332774437"
+        }
+      ],
+      "user_count": 31
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "能够适用于所有音频格式，操作简单，允许添加播放列表的音频播放器",
+      "entity_id": 7340916506332774000,
+      "entity_type": 1,
+      "entity_version": 1709190626042,
+      "favorite_count": 1,
+      "heat": 21,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/162dd39e9db84e93baae8e98cd94ec82~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=epJma5ji696YcNtbCuKhjbjSo%2F8%3D",
+      "id": 7340915045162877000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709190630,
+      "name": "音频播放器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/a1bef398b4e0ccc9a47a79e6caf28e2b~300x300.image",
+        "id": 0,
+        "name": "incredy"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7342121863671365667"
+        }
+      ],
+      "user_count": 17
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "您可以搜索您想听的故事哦",
+      "entity_id": 7342121863671366000,
+      "entity_type": 1,
+      "entity_version": 1709740184189,
+      "favorite_count": 0,
+      "heat": 17,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/702d4afff4474feda103ee5c85790184~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=AzXnWCureoR0aax%2FdEisMVVXS%2Fo%3D",
+      "id": 7342127075026960000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709740186,
+      "name": "听儿童故事",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/b50e89cd14c82392d2ef0c0fc94727a0~300x300.image",
+        "id": 0,
+        "name": "zero2one"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 16
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "",
+      "entity_id": 7341308812542083000,
+      "entity_type": 1,
+      "entity_version": 1709531921758,
+      "favorite_count": 0,
+      "heat": 16,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/612e319c80694019818cb6d45005e670~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=4A0GUlTdjkP70Q1AYdM5qlZV35s%3D",
+      "id": 7342373472791904000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709531923,
+      "name": "TTS测试",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "zhaomin"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7342405029220958258"
+        }
+      ],
+      "user_count": 15
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "根据您的个人喜好，为您推荐每日一曲",
+      "entity_id": 7342405029220958000,
+      "entity_type": 1,
+      "entity_version": 1709537408100,
+      "favorite_count": 0,
+      "heat": 15,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/228be2d970ee4ab2aa867876ab1ca779~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=TZjyz2BACcr4jZ%2FK5i%2FhHQPjKLA%3D",
+      "id": 7342394486368223000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709537411,
+      "name": "每日音乐推荐",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户9939346674995"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7342716005048713250"
+        }
+      ],
+      "user_count": 11
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "BaBa睡前故事，是一款帮助你给孩子讲睡前故事的工具，它拥有大量的故事素材可供选择，并且可以通过克隆爸爸/妈妈的真实声音给孩子讲故事，让孩子听故事更有真实感。",
+      "entity_id": 7342716005048713000,
+      "entity_type": 1,
+      "entity_version": 1709616355736,
+      "favorite_count": 0,
+      "heat": 11,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/436c71d7b56f41fd90ac3cbf56821c5d~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=FC3MkEau6%2F082v2PDVkoS7pur6E%3D",
+      "id": 7342724655490367000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709616358,
+      "name": "BaBa睡前故事",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/c27204c93291383beaa95e14836b38fc~300x300.image",
+        "id": 0,
+        "name": "用户8141127634070"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7341599573909045299"
+        }
+      ],
+      "user_count": 6
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "一个可以带你穿越不同音乐时代的机器人",
+      "entity_id": 7341599573909045000,
+      "entity_type": 1,
+      "entity_version": 1709705162151,
+      "favorite_count": 1,
+      "heat": 6,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4ebbded7b0b24a83ab571e24bd383688~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=ykp8Mn5o8wV32ZU8cQU3TP81a5A%3D",
+      "id": 7343116525714506000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709705164,
+      "name": "音乐时光机",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/fcf9b1e9f3afbccb71cf34a7b8331a8b~300x300.image",
+        "id": 0,
+        "name": "用户9505943166822"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 10
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "找出歌曲的副歌部分",
+      "entity_id": 7340924664262279000,
+      "entity_type": 1,
+      "entity_version": 1709194532530,
+      "favorite_count": 1,
+      "heat": 6,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/f81d1d1fe31443eda6d81e2bae5fef6a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=wNe5hInSvHGQ6SJRiXPey732lMY%3D",
+      "id": 7340931107937993000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709194535,
+      "name": "歌曲副歌分析",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "idiot"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343265394943459379"
+        }
+      ],
+      "user_count": 5
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "播放张国荣的歌曲",
+      "entity_id": 7343265394943459000,
+      "entity_type": 1,
+      "entity_version": 1709738798518,
+      "favorite_count": 0,
+      "heat": 5,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/16946f4fb0ca47e7bd6110e789b44b53~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=DPtfKb1cRL5aBIXVvMSLT0pQxUE%3D",
+      "id": 7343248757963768000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709738805,
+      "name": "张国荣精选",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/63213d978fa778d186698005b12ac961~300x300.image",
+        "id": 0,
+        "name": "Jasin"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343534389747351579"
+        }
+      ],
+      "user_count": 2
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "一款音乐生成工具",
+      "entity_id": 7343534389747352000,
+      "entity_type": 1,
+      "entity_version": 1709801345976,
+      "favorite_count": 0,
+      "heat": 2,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/5f2ccb81effa41faa48fa2184b37240b~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=SD%2FaLuddmFwOVmw7qd%2FV%2FPsEVoE%3D",
+      "id": 7343531497292579000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709801348,
+      "name": "我的地盘听我的",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/154f7360274cc1fd1368f77b56eec76f~300x300.image",
+        "id": 0,
+        "name": "KG0120"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343469827220127795"
+        }
+      ],
+      "user_count": 2
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "恋爱沟通话术，提高约会成功率，寻找话题，",
+      "entity_id": 7343469827220128000,
+      "entity_type": 1,
+      "entity_version": 1709787168210,
+      "favorite_count": 0,
+      "heat": 2,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/7551b0dec99144cebae3a0b92ee2d5e5~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=Ind9YER3im%2Fct4EBGzylQVeoREo%3D",
+      "id": 7343475321997378000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709787171,
+      "name": "恋爱大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/2e34bc81c7c2eecdf48ede7a3cb829c7~300x300.image",
+        "id": 0,
+        "name": "用户7846578006504"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343616408603426835"
+        }
+      ],
+      "user_count": 1
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "AI生成音乐",
+      "entity_id": 7343616408603427000,
+      "entity_type": 1,
+      "entity_version": 1709820760350,
+      "favorite_count": 0,
+      "heat": 1,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/54cd4308429141bab0094e3d3ed98817~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=Td7jxBpbmKC6vzj%2BdEfClVINp74%3D",
+      "id": 7343614126394130000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709820762,
+      "name": "米粒",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "tangliran8818"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343536104396046375"
+        }
+      ],
+      "user_count": 1
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "",
+      "entity_id": 7343536104396046000,
+      "entity_type": 1,
+      "entity_version": 1709801233892,
+      "favorite_count": 0,
+      "heat": 1,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/2afd29ed7824496ea92148c2f8a1e6bc~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=AC8C7QDc0DV4pL%2FPjhCzYTUAS%2Bs%3D",
+      "id": 7343530546188009000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709801257,
+      "name": "音乐推荐",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "bearcat"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343529176681086986"
+        }
+      ],
+      "user_count": 1
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "",
+      "entity_id": 7343529176681087000,
+      "entity_type": 1,
+      "entity_version": 1709799358171,
+      "favorite_count": 0,
+      "heat": 1,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/2d7514380b0e426d8751568c5e0dbd71~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=7MWpqCjtTjZ4Skvho0OKQLngVxY%3D",
+      "id": 7343529714738512000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709799360,
+      "name": "demacia",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/b4bfea08a38dc4273b1ba3ec1b4ad867~300x300.image",
+        "id": 0,
+        "name": "用户2127600503554"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7342506316785008659"
+        }
+      ],
+      "user_count": 1
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "",
+      "entity_id": 7342506316785009000,
+      "entity_type": 1,
+      "entity_version": 1709562923414,
+      "favorite_count": 0,
+      "heat": 1,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4d358000e39a4d01807bcd67792ea733~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=Y63G9aTBrezAAOv%2FGEcZQH8J4J0%3D",
+      "id": 7342511000182129000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709562926,
+      "name": "轮回之旅",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "Xiaoyaozi"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893832&x-signature=Ykh5SiiSW1uuwrSOX9IC6bqWoTY%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343889663180685362"
+        }
+      ],
+      "user_count": 0
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "小浪有一种神奇的魔法能力，不管你说什么，都能把它唱成歌",
+      "entity_id": 7343889663180685000,
+      "entity_type": 1,
+      "entity_version": 1709884036137,
+      "favorite_count": 0,
+      "heat": 0,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c7a18db64a804dc49dcff07a16047dc3~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482232&x-signature=alcHKHJfIYHhZG7hKyzRNhvATjY%3D",
+      "id": 7343887316261519000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709884038,
+      "name": "小浪唱歌",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/588fe6e369b7304df5ba321b5e08b1a8~300x300.image",
+        "id": 0,
+        "name": "eski"
+      },
+      "status": 1
+    }
+  }
+][
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf9-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/372098624667275_1709197136277118085_xVJoSXq2vT.jpeg?lk3s=60aae199&x-expires=1709894013&x-signature=1R4n%2F2zmupU3utJY2g7jfmZwurs%3D",
+          "id": 10000117,
+          "name": "掘金",
+          "url": "https://juejin.cn/pin/club/7173895829281833012?robotId=7343810954318200847"
+        },
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894013&x-signature=pWqCO72KXWURrR2UJCl9lffuNO0%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343810954318200847"
+        }
+      ],
+      "user_count": 0
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "专注木吉他伴奏，根据输入的歌曲名称，自动编配入门级弹奏的和弦进行",
+      "entity_id": 7343810954318201000,
+      "entity_type": 1,
+      "entity_version": 1709878245087,
+      "favorite_count": 0,
+      "heat": 0,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4859ba904d314f438676e3a49233128f~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482413&x-signature=opl3d03bBkDqXa6aCLPuBMPV4%2FY%3D",
+      "id": 7343811720273510000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709878248,
+      "name": "吉他和弦编排",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-flow-imagex-sign.byteimg.com/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~tplv-a9rns2rl98-icon-tiny.jpeg?rk3s=98c978ad&x-expires=1707120350&x-signature=x%2BEJxsLdglWP5IDDVNMUKUKCKg8%3D",
+        "id": 0,
+        "name": "用户8635588202487"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894013&x-signature=pWqCO72KXWURrR2UJCl9lffuNO0%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7343770501506318355"
+        }
+      ],
+      "user_count": 0
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340533000,
+        "index": 0,
+        "name": "音频"
+      },
+      "description": "",
+      "entity_id": 7343770501506318000,
+      "entity_type": 1,
+      "entity_version": 1709857610834,
+      "favorite_count": 0,
+      "heat": 0,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/5a37b225cbd248668cd34c1a99ab4e02~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482413&x-signature=RQ%2F5v0z9RoggpbWhC0EV5Jrap2A%3D",
+      "id": 7343774035328713000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709857613,
+      "name": "语音转文字输出",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/98747fdbea67cedbd496b65da02414db~300x300.image",
+        "id": 0,
+        "name": "用户7632931624480"
+      },
+      "status": 1
+    }
+  }
+]

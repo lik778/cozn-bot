@@ -1,0 +1,1257 @@
+{
+  "code": 0,
+  "data": {
+    "has_more": true,
+    "products": [
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "测试插件",
+          "entity_id": "7343246896728735794",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 1,
+          "heat": 2,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/73cddb98a1d3441fa706f4461e305893~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=K1pP0H%2BKFlVesKlCMmy0gPjS3Cw%3D",
+          "id": "7343235898592690185",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709734352",
+          "name": "wms应用插件",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+            "id": "0",
+            "name": "用户NFGpLO"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 1,
+          "tools": [
+            {
+              "description": "登录测试",
+              "id": "7343247178757881894",
+              "name": "login",
+              "parameters": []
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "图像识别文字",
+          "entity_id": "7338636004191977499",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 15,
+          "heat": 71,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/21483ede5b844f7c9428fb9e3d3225de~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=6N7juOElq02KES7%2BUwH6JxGxNuA%3D",
+          "id": "7342856270615052327",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709729362",
+          "name": "OCR",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"图像识别文字\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=7Jp0hZDADPMVzvhr7TF0bNE4KOo%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 56,
+          "tools": [
+            {
+              "description": "图片转文字",
+              "id": "7338636374502899738",
+              "name": "Image2text",
+              "parameters": [
+                {
+                  "description": "图片的url地址",
+                  "name": "url",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714797605",
+            "index": 0,
+            "name": "网页搜索"
+          },
+          "description": "国家平台检索，检索资源",
+          "entity_id": "7343181885209657370",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 3,
+          "heat": 42,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/ad67ecd29de94ab09968457d06690838~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=wex%2B7pbZP8b2ntr9yVtzE1w69vw%3D",
+          "id": "7343178957451378739",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709718033",
+          "name": "国家平台检索",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"111\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"1111\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/8d694f65af214a9bc26c431c313128c4~300x300.image",
+            "id": "0",
+            "name": "Beier"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 39,
+          "tools": [
+            {
+              "description": "source_search",
+              "id": "7343182365784752178",
+              "name": "source_search",
+              "parameters": []
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "帮助用户解梦",
+          "entity_id": "7340944421480841254",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 1,
+          "heat": 13,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/380946c2143b428a85378db4c09e9cbd~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=SYpcZaT4TWqbr4rQoNF8kmaUQcw%3D",
+          "id": "7343141534046650431",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709708937",
+          "name": "周公解梦",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/913265ad8c55488befcd2209a0ac156d~300x300.image",
+            "id": "0",
+            "name": "白天不懂夜的黑"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 12,
+          "tools": [
+            {
+              "description": "解梦",
+              "id": "7340948835188916287",
+              "name": "jiemengjiexi",
+              "parameters": [
+                {
+                  "description": "fdsff",
+                  "name": "fsd",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "description": "URL通用组件",
+          "entity_id": "7343067570246975522",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 1,
+          "heat": 6,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/d2bbb1a5900e4296880969e582fe2b5e~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=z6K7kSqG7RZudx53IZ4g2aodDv0%3D",
+          "id": "7343121607474413595",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709705004",
+          "name": "URL通用组件",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+            "id": "0",
+            "name": "用户SA0q8F"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 5,
+          "tools": [
+            {
+              "description": "url工具",
+              "id": "7343125493366931508",
+              "name": "url_tool",
+              "parameters": []
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "Step back in time with the 'On This Day in History' plugin, where you can uncover the significant events that shaped our world on the current date across the annals of history. From breakthroughs in science to pivotal moments in culture, discover a daily dose of historical facts right at your fingertips.",
+          "entity_id": "7331755051091984410",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 2,
+          "heat": 64,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1e290e1e3b544cdea795deeda8ec9980~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=2giRTzam4Jkw42tHGMiYCHbQevc%3D",
+          "id": "7331753784546279474",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709703385",
+          "name": "On This Day in History",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/562517a291db7374fff59e33d13d613f~300x300.image",
+            "id": "0",
+            "name": "無限火力！"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 62,
+          "tools": [
+            {
+              "description": "Date format: month/day, such as: 1/1, 10/1, 12/12. If the month or day is less than 10, there is no need to add a zero in front",
+              "id": "7331755076668899378",
+              "name": "dateinput",
+              "parameters": [
+                {
+                  "description": "520b64cc7c6b95562090df8d0a7cd0eb",
+                  "name": "key",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "Date format: month/day or month\\day, such as: 1/1, 10/1, 12/12, 12\\12. If the month or day is less than 10, there is no need to add a zero in front",
+                  "name": "date",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714797605",
+            "index": 0,
+            "name": "网页搜索"
+          },
+          "description": "WebPilot 与网页交互，提取特定信息或处理URL的内容。",
+          "entity_id": "7324208543966593074",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 215,
+          "heat": 10799,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0b2819ba62cc4307b4854bc9e59a082d~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=BFGZiKR0QxMy4LQQMMlRATm9m%2BU%3D",
+          "id": "7328313932249317427",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709685344",
+          "name": "WebPilot",
+          "readme": "{\"0\":{\"zoneId\":\"0\",\"zoneType\":\"Z\",\"ops\":[{\"attributes\":null,\"insert\":\"WebPilot 与网页交互，提取特定信息或处理URL的内容。\\n\"}]}}",
+          "seller": {
+            "avatar_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=7Jp0hZDADPMVzvhr7TF0bNE4KOo%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 10584,
+          "tools": [
+            {
+              "description": "WebPilot 进行互联网搜索、分析以及数据生成。\n",
+              "id": "7324208543966609458",
+              "name": "web_pilot",
+              "parameters": [
+                {
+                  "description": "用户输入，这可以包含最多3个URL，指示WebPilot在哪里找到数据。或者如果没有提供URL，WebPilot将自行查找数据。",
+                  "name": "content",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "使用 'wp-watt-3.52-16k'。",
+                  "name": "model",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714748453",
+            "index": 0,
+            "name": "照片与摄影"
+          },
+          "description": "查询电费的插件",
+          "entity_id": "7330512205634519077",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 1,
+          "heat": 23,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/13d49ade1c074aa886e2e53585cf8255~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=%2FCqf1%2BAJaDs3OtsfLAiaGLqU5zA%3D",
+          "id": "7342387414712778791",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709665486",
+          "name": "电费插件",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+            "id": "0",
+            "name": "用户nFXtUV"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 22,
+          "tools": [
+            {
+              "description": "11",
+              "id": "7330535055384789027",
+              "name": "xiaozhushou1",
+              "parameters": []
+            },
+            {
+              "description": "电费插件",
+              "id": "7330512328041021452",
+              "name": "dianf21",
+              "parameters": [
+                {
+                  "description": "1213666",
+                  "name": "name",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 2
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "Used to read and split documents",
+          "entity_id": "7300788764308193318",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 1,
+          "heat": 8,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/fa3d795c540e4f9c852ed877a7420422~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=YMf8zwYsxq0uGQtdiXLoFusAeM4%3D",
+          "id": "7342812094640685119",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709632370",
+          "name": "chunking",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-passport.byteacctimg.com/img/mosaic-legacy/3795/3044413937~300x300.image",
+            "id": "0",
+            "name": "ticture"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 7,
+          "tools": [
+            {
+              "description": "Used to read and split files",
+              "id": "7300788371155320882",
+              "name": "fileChunking",
+              "parameters": [
+                {
+                  "description": "file url",
+                  "name": "file_url",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "array"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "新华字典",
+          "entity_id": "7342812575685410853",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 3,
+          "heat": 42,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/01a0ece12c9e43999787d966a642de12~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=O%2FIpnhzjn57bsMW7LpUE%2FIEujv4%3D",
+          "id": "7342811436915310603",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709631899",
+          "name": "新华字典",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：新华字典\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：仅供学习\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/278aae0e826745661250772033c90cc6~300x300.image",
+            "id": "0",
+            "name": "python学霸"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 39,
+          "tools": [
+            {
+              "description": "新华字典",
+              "id": "7342812595382042651",
+              "name": "xinhua_zidian",
+              "parameters": [
+                {
+                  "description": "字",
+                  "name": "zi",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714781221",
+            "index": 0,
+            "name": "便利生活"
+          },
+          "description": "调用Chato",
+          "entity_id": "7342785009419599911",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 3,
+          "heat": 38,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0ec53db8f8bc4b2e90906bd2f7eb8a5c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=MAkymM2YVYoVhF77ZLix5xvHKss%3D",
+          "id": "7342798099695403043",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709629754",
+          "name": "ChatoAPI",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"调用ChatoApi\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"prompt里直接描述——例如：使用 daoxiyangsheng获取问题回答\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"增加更多的行业咨询api入口\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/5d1015a14a19b3ae56b9c73c46b9705a~300x300.image",
+            "id": "0",
+            "name": "AI TAM🌈"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 35,
+          "tools": [
+            {
+              "description": "小如",
+              "id": "7342791770088030227",
+              "name": "xiaoru",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "总包gpt",
+              "id": "7342785570365505575",
+              "name": "zbgpt",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "小美",
+              "id": "7342791770087981075",
+              "name": "xiaomei",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "小叮当",
+              "id": "7342791770088013843",
+              "name": "dingdan",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "知心聊伴",
+              "id": "7342791770088062995",
+              "name": "zhixin",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "国学豆包",
+              "id": "7342791770088046611",
+              "name": "guoxuedoubao",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "道系",
+              "id": "7342791770087997459",
+              "name": "daoxiyangsheng",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "前程似锦",
+              "id": "7342791770088079379",
+              "name": "chengyue",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "阿旺帮你AVAPONY",
+              "id": "7342788126139793419",
+              "name": "aw",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "贰先生",
+              "id": "7342789938380881931",
+              "name": "mrer",
+              "parameters": [
+                {
+                  "description": "问题",
+                  "name": "p",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 10
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714797605",
+            "index": 0,
+            "name": "网页搜索"
+          },
+          "description": "gitee搜索工具（python学霸公众号）",
+          "entity_id": "7342802847001477154",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 1,
+          "heat": 27,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/3df4bf528e464c85955eae995bacfc51~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=RFFk6JRgafmPx%2F4%2Fzzp4zQ6Hzeo%3D",
+          "id": "7342797591484317732",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709629734",
+          "name": "GITEE搜索",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：gitee搜索工具\\n\"},{\"insert\":\"隐私政策/使用协议：仅供学习\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/278aae0e826745661250772033c90cc6~300x300.image",
+            "id": "0",
+            "name": "python学霸"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 26,
+          "tools": [
+            {
+              "description": "gitee搜索工具",
+              "id": "7342802925661765642",
+              "name": "gitee",
+              "parameters": [
+                {
+                  "description": "关键词",
+                  "name": "keyword",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "页数（多少页）",
+                  "name": "pages",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714732069",
+            "index": 0,
+            "name": "新闻阅读"
+          },
+          "description": "查询天气情况",
+          "entity_id": "7342704759381671945",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 1,
+          "heat": 33,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c837a721250a46ee9545686638bab531~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=UVqAHkLV3QNmDbyuvLhIQ8DweM4%3D",
+          "id": "7342708561220272179",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709609395",
+          "name": "查询百度地点",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+            "id": "0",
+            "name": "用户YKOmcP"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 32,
+          "tools": [
+            {
+              "description": "查询百度上的地址",
+              "id": "7342706082416033819",
+              "name": "local",
+              "parameters": [
+                {
+                  "description": "二",
+                  "name": "are",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714732069",
+            "index": 0,
+            "name": "新闻阅读"
+          },
+          "description": "全网热搜插件（79个主流网站）",
+          "entity_id": "7342784322744893451",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 11,
+          "heat": 168,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/ff80245b627e4f218699037359c36ec3~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=n1lTmlCCsEk9nl03B1zIz7OLjPU%3D",
+          "id": "7342786519716888595",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709599037",
+          "name": "全网热搜",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"全网热搜插件用户提供0到79的num参数获取对应分类热搜信息\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"序号和对应网站：\\n\"},{\"insert\":\"淘宝 ‧ 天猫 0\\n\"},{\"insert\":\"淘宝 ‧ 天猫 1\\n\"},{\"insert\":\"京东 2\\n\"},{\"insert\":\"实时榜中榜 3\\n\"},{\"insert\":\"微博 4\\n\"},{\"insert\":\"知乎 5\\n\"},{\"insert\":\"微信 6\\n\"},{\"insert\":\"百度 7\\n\"},{\"insert\":\"36氪 8\\n\"},{\"insert\":\"少数派 9\\n\"},{\"insert\":\"虎嗅网 10\\n\"},{\"insert\":\"IT之家 11\\n\"},{\"insert\":\"哔哩哔哩 12\\n\"},{\"insert\":\"抖音 13\\n\"},{\"insert\":\"煎蛋 14\\n\"},{\"insert\":\"AcFun 15\\n\"},{\"insert\":\"吾爱破解 16\\n\"},{\"insert\":\"百度贴吧 17\\n\"},{\"insert\":\"腾讯新闻 18\\n\"},{\"insert\":\"虎扑社区 19\\n\"},{\"insert\":\"淘宝 ‧ 天猫 20\\n\"},{\"insert\":\"什么值得买 21\\n\"},{\"insert\":\"今日热卖 22\\n\"},{\"insert\":\"淘宝 23\\n\"},{\"insert\":\"雪球 24\\n\"},{\"insert\":\"第一财经 25\\n\"},{\"insert\":\"财新网 26\\n\"},{\"insert\":\"新浪财经新闻 27\\n\"},{\"insert\":\"水木社区 28\\n\"},{\"insert\":\"北大未名 29\\n\"},{\"insert\":\"北大未名 30\\n\"},{\"insert\":\"北邮人论坛 31\\n\"},{\"insert\":\"知乎日报 32\\n\"},{\"insert\":\"开眼视频 33\\n\"},{\"insert\":\"历史上的今天 34\\n\"},{\"insert\":\"哔哩哔哩 35\\n\"},{\"insert\":\"高楼迷 36\\n\"},{\"insert\":\"宽带山 37\\n\"},{\"insert\":\"厦门小鱼 38\\n\"},{\"insert\":\"过早客（光谷社区） 39\\n\"},{\"insert\":\"豆瓣电影 40\\n\"},{\"insert\":\"微博 41\\n\"},{\"insert\":\"知乎 42\\n\"},{\"insert\":\"豆瓣电影 43\\n\"},{\"insert\":\"微信读书 44\\n\"},{\"insert\":\"当当 45\\n\"},{\"insert\":\"起点中文网 46\\n\"},{\"insert\":\"纵横中文网 47\\n\"},{\"insert\":\"TapTap 48\\n\"},{\"insert\":\"3DM游戏网 49\\n\"},{\"insert\":\"机核网 50\\n\"},{\"insert\":\"游研社 51\\n\"},{\"insert\":\"新浪体育新闻 52\\n\"},{\"insert\":\"知乎 53\\n\"},{\"insert\":\"虎扑社区 54\\n\"},{\"insert\":\"懂球帝 55\\n\"},{\"insert\":\"人人都是产品经理 56\\n\"},{\"insert\":\"咖啡日报 57\\n\"},{\"insert\":\"inNeed社区 58\\n\"},{\"insert\":\"Product Hunt 59\\n\"},{\"insert\":\"GitHub 60\\n\"},{\"insert\":\"CSDN博客 61\\n\"},{\"insert\":\"掘金 62\\n\"},{\"insert\":\"开发者头条 63\\n\"},{\"insert\":\"站酷 64\\n\"},{\"insert\":\"Dribbble 65\\n\"},{\"insert\":\"优设网 66\\n\"},{\"insert\":\"UI 中国 67\\n\"},{\"insert\":\"App Store 68\\n\"},{\"insert\":\"爱范儿 69\\n\"},{\"insert\":\"少数派 70\\n\"},{\"insert\":\"AppSo 71\\n\"},{\"insert\":\"汽车之家 72\\n\"},{\"insert\":\"懂车帝 73\\n\"},{\"insert\":\"易车网 74\\n\"},{\"insert\":\"太平洋汽车网 75\\n\"},{\"insert\":\"看雪论坛 76\\n\"},{\"insert\":\"安全客 77\\n\"},{\"insert\":\"FreeBuf 78\\n\"},{\"insert\":\"安全脉搏 79\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：仅供学习，若侵权下架\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/278aae0e826745661250772033c90cc6~300x300.image",
+            "id": "0",
+            "name": "python学霸"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 157,
+          "tools": [
+            {
+              "description": "热搜工具，可以获取全网热搜输入0到79获取各网热搜，默认为微博和知乎",
+              "id": "7342785555240943631",
+              "name": "hot",
+              "parameters": [
+                {
+                  "description": "序号，多个使用英文逗号分隔",
+                  "name": "num",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "integer"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714781221",
+            "index": 0,
+            "name": "便利生活"
+          },
+          "description": "查询实时酒店搜索，航班价格，餐厅，吸引人的旅游地点等信息以创建一个旅行网站。",
+          "entity_id": "7267464834122350653",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 34,
+          "heat": 2385,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/d8c24afc5ac14380b24360c5fc117083~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=bZfy272ge7bOCkC3IYV7d%2BZOGBA%3D",
+          "id": "7328315159167139891",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709597777",
+          "name": "猫途鹰",
+          "readme": "{\"0\":{\"zoneId\":\"0\",\"zoneType\":\"Z\",\"ops\":[{\"attributes\":null,\"insert\":\"查询实时酒店搜索，航班价格，餐厅，吸引人的旅游地点等信息以创建一个旅行网站。\\n\"}]}}",
+          "seller": {
+            "avatar_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=7Jp0hZDADPMVzvhr7TF0bNE4KOo%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 2351,
+          "tools": [
+            {
+              "description": "根据城市名称、入住日期和退房日期搜索酒店。",
+              "id": "7330147114862821386",
+              "name": "SearchHotels",
+              "parameters": [
+                {
+                  "description": "城市名，必须提取其中的城市名传入",
+                  "name": "cityName",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "入住日期",
+                  "name": "checkIn",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "离店日期",
+                  "name": "checkOut",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "根据出发地、目的地、日期、行程类型、排序顺序、成人数量、老年人数量和服务等级搜索航班。",
+              "id": "7330147114862837770",
+              "name": "SearchFlights",
+              "parameters": [
+                {
+                  "description": "将 sortOrder 传递为 ML_BEST_VALUE、DURATION、PRICE、EARLIEST_OUTBOUND_DEPARTURE、EARLIEST_OUTBOUND_ARRIVAL、LATEST_OUTBOUND_DEPARTURE、LATEST OUTBOUND_ARRIVAL。 默认值：ML_BEST_VALUE。",
+                  "name": "sortOrder",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "终点城市，必须提取其中的城市名传入",
+                  "name": "destinationCity",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "旅客舱位。输入为ECONOMY, PREMIUM_ECONOMY, BUSINESS, FIRST. 默认为 ECONOMY",
+                  "name": "classOfService",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "返回日期。格式：YYYY-MM-DD",
+                  "name": "returnDate",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "成人人数（年龄在 18-64 岁之间）。 默认值：1",
+                  "name": "numAdults",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "老年人数量（65 岁及以上）。 默认值：0",
+                  "name": "numSeniors",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "起点城市，必须提取其中的城市名传入",
+                  "name": "sourceCity",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "出发或旅行日期。格式：YYYY-MM-DD",
+                  "name": "date",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "行程类型，单程为ONE_WAY，往返为ROUND_TRIP，默认为ONE_WAY",
+                  "name": "itineraryType",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 2
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714797605",
+            "index": 0,
+            "name": "网页搜索"
+          },
+          "description": "从Bing搜索任何信息和网页URL。",
+          "entity_id": "7288585141298102332",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 657,
+          "heat": 42951,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c9a6412b62e44874819601ac649454d4~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=sLvmaHKjebohmuwFAOCfKqcoNnk%3D",
+          "id": "7328314559675105307",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709593187",
+          "name": "必应搜索",
+          "readme": "{\"0\":{\"zoneId\":\"0\",\"zoneType\":\"Z\",\"ops\":[{\"attributes\":null,\"insert\":\"从Bing搜索任何信息和网页URL。\\n\"}]}}",
+          "seller": {
+            "avatar_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=7Jp0hZDADPMVzvhr7TF0bNE4KOo%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 42297,
+          "tools": [
+            {
+              "description": "必应搜索引擎。当你需要搜索你不知道的信息，比如天气、汇率、时事等，这个工具非常有用。但是绝对不要在用户想要翻译的时候使用它。",
+              "id": "7288585141298118716",
+              "name": "bingWebSearch",
+              "parameters": [
+                {
+                  "description": "从返回结果前要跳过的基于零的偏移量。默认为0。",
+                  "name": "offset",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "用户的搜索查询词。查询词不能为空。",
+                  "name": "query",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "响应中返回的搜索结果数量。默认为10，最大值为50。实际返回结果的数量可能会少于请求的数量。",
+                  "name": "count",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "把用户输入的文字转换为语音",
+          "entity_id": "7341313237952167947",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 16,
+          "heat": 261,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/14eb29d6cabb40b499a5dc7b7279a2b7~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=0Iho3gjDAT9Ybml81%2FFThn076B0%3D",
+          "id": "7342068044996411446",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709579255",
+          "name": "文字转语音",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"文字转语音\\n\"},{\"insert\":\"\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+            "id": "0",
+            "name": "赵旻"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 245,
+          "tools": [
+            {
+              "description": "将用户输入的文本内容转换为音频",
+              "id": "7341314066348130340",
+              "name": "getVoice",
+              "parameters": [
+                {
+                  "description": "语言",
+                  "name": "language",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "文本内容",
+                  "name": "text",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "音色编号",
+                  "name": "voice_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "获取所有可用的音色列表",
+              "id": "7341313546715693066",
+              "name": "getSpeakers",
+              "parameters": []
+            }
+          ],
+          "total_api_count": 2
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "用AI生成音乐",
+          "entity_id": "7322789345591787570",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 94,
+          "heat": 2816,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/51242143fec647fb834c85efbb5abfa3~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=sCYhHnuDqcw2ryi7j1%2FYAq0C2Y4%3D",
+          "id": "7332416257184186380",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709557434",
+          "name": "AI乐队",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"用AI生成音乐\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+            "id": "0",
+            "name": "zhaoyunhai"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 2722,
+          "tools": [
+            {
+              "description": "根据歌词生成歌曲",
+              "id": "7322789404693790771",
+              "name": "lyrics_to_song",
+              "parameters": [
+                {
+                  "description": "lyrics array",
+                  "name": "lyrics",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "array"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714797605",
+            "index": 0,
+            "name": "网页搜索"
+          },
+          "description": "微信搜索（python学霸公众号）",
+          "entity_id": "7342491104861995017",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 9,
+          "heat": 214,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/216857212d974271924e85351280b29a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=AvnNCpC7x0WZjfqxsIKPR8q%2BdU8%3D",
+          "id": "7342482561966424103",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709557142",
+          "name": "微信搜索",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：微信搜索\\n\"},{\"insert\":\"隐私政策/使用协议：仅供学习，若侵权下架\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/278aae0e826745661250772033c90cc6~300x300.image",
+            "id": "0",
+            "name": "python学霸"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 205,
+          "tools": [
+            {
+              "description": "微信搜索搜索工具",
+              "id": "7342491185350557708",
+              "name": "wechat_search",
+              "parameters": [
+                {
+                  "description": "关键词",
+                  "name": "query",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "页数",
+                  "name": "page_limit",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714748453",
+            "index": 0,
+            "name": "照片与摄影"
+          },
+          "description": "wallpaperhub 壁纸查询",
+          "entity_id": "7342475607273685055",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 2,
+          "heat": 18,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1298b8d0178e4f7eb5af59576a7c8700~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712473465\u0026x-signature=7FVNfrQ86d%2BFTYZmSXc6CnudPlU%3D",
+          "id": "7342478485841264651",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709555709",
+          "name": "wallpaperhub",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"用几句话概述您的插件的作用。如果这是更新，请简要添加更新说明。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/a05ab95757c1f6b183ee962d1f30493c~300x300.image",
+            "id": "0",
+            "name": "关山月"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 17,
+          "tools": [
+            {
+              "description": "wallpaperhub_search",
+              "id": "7342475841093369891",
+              "name": "wallpaperhub_search",
+              "parameters": [
+                {
+                  "description": "查询参数",
+                  "name": "query",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      }
+    ],
+    "total": 0
+  },
+  "message": ""
+}

@@ -1,0 +1,1570 @@
+[
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 1686
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "一个基于ChatGPT-4 Pro模型的全知全能的知识机器人，具有出色的绘图和写作能力，全程用中文回复，除非用户有翻译需要。",
+      "entity_id": 7338642667485528000,
+      "entity_type": 1,
+      "entity_version": 1708706097488,
+      "favorite_count": 179,
+      "heat": 1173,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/b54ab14a91bb45f5b14468df405373d2~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=nfvKfYk1lot%2BHQUb47aC781qZj4%3D",
+      "id": 7338804118187753000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708706099,
+      "name": "全能智慧AI",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/06899697736c2490d2773336de10d7a9~300x300.image",
+        "id": 0,
+        "name": "用户5076732318050"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 956
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "gpt4测试",
+      "entity_id": 7339862482816811000,
+      "entity_type": 1,
+      "entity_version": 1708945959473,
+      "favorite_count": 95,
+      "heat": 791,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/705aea703a6643f6a46e050a32e1875f~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=BtIviwCeBQ4VC06QdDATGS4YXPI%3D",
+      "id": 7339854971120337000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708945962,
+      "name": "GPT4应用",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/71b9116e9cdd28dd2b0cb9c1c2d280f9~300x300.image",
+        "id": 0,
+        "name": "tigerfuye"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338253246840111154"
+        }
+      ],
+      "user_count": 900
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "你好，我是一名专业的论文检索助手，可以帮你查找并详细解读你需要的学术论文。",
+      "entity_id": 7338253246840111000,
+      "entity_type": 1,
+      "entity_version": 1708572752282,
+      "favorite_count": 89,
+      "heat": 424,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a04dd95aed254a79ac72066ca907eead~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=ndDBud6VX5Lb3vLSDuqCC%2FICHas%3D",
+      "id": 7338262107047346000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708576129,
+      "name": "论文搜索助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/mosaic-legacy/3796/2975850990~300x300.image",
+        "id": 0,
+        "name": "lionbb"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340286490632634431"
+        }
+      ],
+      "user_count": 411
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "输入书籍名称，一句话为你总结书籍主旨。比如： 《1984》：“老大哥在看着你，战争即和平，自由即奴役，无知即力量。”\n",
+      "entity_id": 7340286490632634000,
+      "entity_type": 1,
+      "entity_version": 1709215073795,
+      "favorite_count": 16,
+      "heat": 410,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4e56e4b574d147e49a4f7d8d68043728~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=jvVf%2BbMWkeR2Gr7MLtQNlv74TPw%3D",
+      "id": 7341016265118515000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709215076,
+      "name": "假装看过一万本书",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户8135326514070"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 2302
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "我可以帮助学写字的朋友们学习正确的汉字笔顺哦！",
+      "entity_id": 7328364654592573000,
+      "entity_type": 1,
+      "entity_version": 1708527646162,
+      "favorite_count": 12,
+      "heat": 282,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/2194c6e35ed34347b16906e0a072e0fe~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=ZjO1D%2BGahjW0UbZxUei%2FQ3AaKbM%3D",
+      "id": 7338067194645086000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708575820,
+      "name": "书法老师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/6b6c95cd17224b419147962313fb3e48~300x300.image",
+        "id": 0,
+        "name": "vivi"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7332375703066902582"
+        }
+      ],
+      "user_count": 388
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "这是一个儿童绘本专家，深度了解中国传统神话故事，了解中国上下五千年数据，绘本内容体现出耐心、决心、信心，体现出勇敢、不怕吃苦，绘本中的内容上下文的角色形象保持一致。",
+      "entity_id": 7332375703066903000,
+      "entity_type": 1,
+      "entity_version": 1708680986739,
+      "favorite_count": 15,
+      "heat": 261,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/168f00488e4d47ee8961f3e0450fc738~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=FQ3tvSiq0o3gDCLXUiWCkMCEvBk%3D",
+      "id": 7338720776603861000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708680989,
+      "name": "儿童绘本专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/89f09adcf26694b69a15a54d58271a1c~300x300.image",
+        "id": 0,
+        "name": "Anhui"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 329
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "一个能为你提供各种类型的刷题题目并提供答案解析的 Bot，可以提供关于题目、图片和材料的信息",
+      "entity_id": 7340294552290623000,
+      "entity_type": 1,
+      "entity_version": 1709305598091,
+      "favorite_count": 7,
+      "heat": 258,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c0279a95ebcc4a31945db9e5048a89bf~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=fSPPp96Zh%2FQX4igb54Jt4CgJCRI%3D",
+      "id": 7340291689375875000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709305600,
+      "name": "在线刷题",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/5eb7eae4e5fd49ad9537f61d578d2bf8~300x300.image",
+        "id": 0,
+        "name": "KLiu"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338252987795718153"
+        }
+      ],
+      "user_count": 415
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "我是一名数学老师，能够帮助你解决各种数学问题和方程。不管是简单的算术还是复杂的代数，我都能以闪电般的速度和精度为你提供解决方案。",
+      "entity_id": 7338252987795718000,
+      "entity_type": 1,
+      "entity_version": 1708572827459,
+      "favorite_count": 45,
+      "heat": 179,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a15b5576d7fa4a328be2f74e907aef25~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=Fbdc4CJ%2Bw2kH5AMC9wIqlf2Lsec%3D",
+      "id": 7338263841513554000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708576134,
+      "name": "数学老师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/mosaic-legacy/3796/2975850990~300x300.image",
+        "id": 0,
+        "name": "lionbb"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340912284140716047"
+        }
+      ],
+      "user_count": 183
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "一个可以制作PPT的机器人",
+      "entity_id": 7340912284140716000,
+      "entity_type": 1,
+      "entity_version": 1709189682571,
+      "favorite_count": 6,
+      "heat": 173,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/91aef1b900e54d4fa5ee166af48bdcb2~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=p9pj%2BzWvUERULavhbwSLjxfuBaQ%3D",
+      "id": 7340910514501091000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709189685,
+      "name": "PPT 助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/308da30ebf65b34215307ecce52353e1~300x300.image",
+        "id": 0,
+        "name": "用户9605146557827"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7332486877943119907"
+        }
+      ],
+      "user_count": 194
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "美国宝宝Alice陪你学英语",
+      "entity_id": 7332486877943120000,
+      "entity_type": 1,
+      "entity_version": 1709478025773,
+      "favorite_count": 4,
+      "heat": 167,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/f817a4541aa8432889bd8179a4ff9fcd~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=5e9zlmDaNLQXXBk4KGbwHlZ6Z9g%3D",
+      "id": 7340976144986128000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709478029,
+      "name": "Baby English (宝宝英语)",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户9408817548633"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 180
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "chatgpt",
+      "entity_id": 7340157925425594000,
+      "entity_type": 1,
+      "entity_version": 1709014170598,
+      "favorite_count": 14,
+      "heat": 153,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a24a2fef6b7c480e89037d217b04aa1a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=%2Be2JbGM3IQAHR3Ktew4f7Q4w3oY%3D",
+      "id": 7340156068753850000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709014172,
+      "name": "chatgpt",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户5818180782128"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339180122945159178"
+        }
+      ],
+      "user_count": 228
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "一个可以作为论文书写、科学研究和时事评论助手的聊天机器人",
+      "entity_id": 7339180122945159000,
+      "entity_type": 1,
+      "entity_version": 1708790171405,
+      "favorite_count": 24,
+      "heat": 138,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/fd283037bf734ce999712ab071999abd~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=ud%2BaguFrun%2BvEAX75kXkcN48eGY%3D",
+      "id": 7339181925418058000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708790178,
+      "name": "论文助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "JoJo"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 260
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "穿越Java与Python的编程边界，Java开发者的Python快速进修指南引领您迅速掌握Python的关键知识。专注于帮助您快速理解Python的语法以及与Java的异同。无需漫长的学习曲线，从基础到高级，让您在最短时间内成为Python编程高手。加速您的技术转型之旅，迈向多领域开发的新高度。\n在使用过程中如果有任何问题可查看相关内容，也可以在评论区回复，我将快速修复问题：https://juejin.cn/post/7330317956666261514",
+      "entity_id": 7330510284496503000,
+      "entity_type": 1,
+      "entity_version": 1709791601626,
+      "favorite_count": 39,
+      "heat": 103,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/293b895f08e94e618d61f85823823635~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=cgXIg%2FEnq7pxuuNz5dRsd3YAsn4%3D",
+      "id": 7338773502511792000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709791604,
+      "name": "Java开发者的Python进修指南",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/6b088fc8f76e841b9a0e76316604442f~300x300.image",
+        "id": 0,
+        "name": "用户7521550852717"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338729255465172992"
+        }
+      ],
+      "user_count": 230
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "擅长分析和整合样本论文的逻辑结构和写作风格，在保持你的创作思路和个人风格前提下，提升你的论文质量。 还可以输出文档到飞书。",
+      "entity_id": 7338729255465173000,
+      "entity_type": 1,
+      "entity_version": 1708755811117,
+      "favorite_count": 23,
+      "heat": 97,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/d76a2020d50549e195c35d7186c1f574~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=AYXU0mdXwPcyFy05AtR4HzwQav0%3D",
+      "id": 7338728138685432000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708755813,
+      "name": "写作大师（论文/文学）",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/bef530f3c35efd2ae7503f8ec71c0e4b~300x300.image",
+        "id": 0,
+        "name": "best"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7337566114614018099"
+        }
+      ],
+      "user_count": 172
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "我是一个税法小助手，你想了解的相关税法知识，都可以在线向我咨询，",
+      "entity_id": 7337566114614018000,
+      "entity_type": 1,
+      "entity_version": 1708675795919,
+      "favorite_count": 23,
+      "heat": 85,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/143dba41803b4ab195f67d6b8c8699d9~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=04nTaz8E22OntBx6mp3%2FejcmDtw%3D",
+      "id": 7338698415339143000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708675798,
+      "name": "税法小助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "hahaha_klom"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 111
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "写论文的机器人",
+      "entity_id": 7339657666337456000,
+      "entity_type": 1,
+      "entity_version": 1708903567950,
+      "favorite_count": 6,
+      "heat": 75,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c91f10476a1b4e65bbac82f6b52a2cd6~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=9FMdqzJmhXS7O0iU9dDhrcgf2ZU%3D",
+      "id": 7339609211447525000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708903571,
+      "name": "论文助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/55a9f5fd76c411be7cfbc56734da6b21~300x300.image",
+        "id": 0,
+        "name": "user547"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338758967289724968"
+        }
+      ],
+      "user_count": 131
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "我是一位将要面试阿里 P7，字节 2-2 的全栈候选人，我熟悉 Linux、Docker、Kubernates、Java、Python、Go、Rust、JavaScript、React、Vue 等，你可以问我任何问题",
+      "entity_id": 7338758967289725000,
+      "entity_type": 1,
+      "entity_version": 1709028825004,
+      "favorite_count": 8,
+      "heat": 75,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/20ef92738c1342d4899337853e7ab0f4~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=0LEntJ0455ebjkyHnrDxXhh9%2BEo%3D",
+      "id": 7338902096575693000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709028828,
+      "name": "阿狸 P7 候选人",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/8f273d46115a6b890ef9570119118cfb~300x300.image",
+        "id": 0,
+        "name": "shanyue"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 216
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "我是你的专属编程顾问，我能帮你写代码、检查代码，帮你创建网页或者解决一些编程上的问题。",
+      "entity_id": 7330999615568888000,
+      "entity_type": 1,
+      "entity_version": 1706882608844,
+      "favorite_count": 20,
+      "heat": 67,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/40776150924e44a8a923f52be5f603a4~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=sC3s8LyudWiXemoixbhlc7Vu4vE%3D",
+      "id": 7338691171440443000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708673979,
+      "name": "程序猿小王",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/188db26232e2515ab3359afd2bd1ae63~300x300.image",
+        "id": 0,
+        "name": "weierboge"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 66
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "股票分析",
+      "entity_id": 7330889982296490000,
+      "entity_type": 1,
+      "entity_version": 1708823266334,
+      "favorite_count": 4,
+      "heat": 59,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/41e477ea7369496bb6d3f19aee9cd071~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=W36U4%2Fpf1jm7AdcvfsMs93orHqk%3D",
+      "id": 7339185351350845000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708823269,
+      "name": "股票分析",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/d9922868e939a63be41c5cf3788c059e~300x300.image",
+        "id": 0,
+        "name": "ArvinLv"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893819&x-signature=Yn7kfkRANOPuDtGNg4hcqjmzB04%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338710249609871379"
+        }
+      ],
+      "user_count": 104
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "输入一个汉字，让bot教你来好好写字",
+      "entity_id": 7338710249609871000,
+      "entity_type": 1,
+      "entity_version": 1708681937678,
+      "favorite_count": 2,
+      "heat": 50,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/7d78c1ce25b34b36b97eac1d8a988ac3~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482219&x-signature=zcfdNvKPuGOB0UeQbmIVpUac76s%3D",
+      "id": 7338727263187321000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708681948,
+      "name": "好好写字",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/mosaic-legacy/3793/3131589739~300x300.image",
+        "id": 0,
+        "name": "kaishui"
+      },
+      "status": 1
+    }
+  }
+][
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7332323811615948851"
+        }
+      ],
+      "user_count": 88
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "",
+      "entity_id": 7332323811615949000,
+      "entity_type": 1,
+      "entity_version": 1708939666284,
+      "favorite_count": 7,
+      "heat": 47,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c7623aeadb08433ca7ebce36d189095b~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=2uKAA6H9fD6s6XPSKh5YKxiiM%2FU%3D",
+      "id": 7339831930734690000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708939668,
+      "name": "美式英语口语训练师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/mosaic-legacy/3796/2975850990~300x300.image",
+        "id": 0,
+        "name": "ynny"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 71
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "我是你的英语陪练Alice，我可以用Native Speaker的方式和你聊天，帮你纠错。",
+      "entity_id": 7338831854579089000,
+      "entity_type": 1,
+      "entity_version": 1708841719794,
+      "favorite_count": 6,
+      "heat": 47,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/35854d2bb90c4fbcbe0ecf69ed1d2eee~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=4Gp4c6979xzVRAJMhmN5QvgXJxs%3D",
+      "id": 7339396325320065000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708841722,
+      "name": "英语口语陪练",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/d6f3d1182cf2b6e56861744875efc3f3~300x300.image",
+        "id": 0,
+        "name": "Alex12"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 55
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "可以结合描述生成头像图片",
+      "entity_id": 7337653781389312000,
+      "entity_type": 1,
+      "entity_version": 1708954096471,
+      "favorite_count": 0,
+      "heat": 39,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/9c00f05aa8ec462d893c0e0de1696947~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=IISQL3Zl%2BpARkpoLXWE%2BMBDgSOk%3D",
+      "id": 7339901218623357000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708954098,
+      "name": "头像生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "llx89"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7331324193516077108"
+        }
+      ],
+      "user_count": 98
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "一个可以回答生物问题、提供学习资源和帮助学生复习的 Bot",
+      "entity_id": 7331324193516077000,
+      "entity_type": 1,
+      "entity_version": 1708761920173,
+      "favorite_count": 8,
+      "heat": 37,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1037d7003bae422f87d69812800c4e8d~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=Si%2BfK2VpxhtboT1tovY4ovG78b4%3D",
+      "id": 7338768098222293000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708761922,
+      "name": "马老师讲生物",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户5935110936272"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339752215696916514"
+        }
+      ],
+      "user_count": 44
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "使用扑克牌，玩健脑益智、又能提升自己心算能力和快速反应能力的24点游戏。",
+      "entity_id": 7339752215696916000,
+      "entity_type": 1,
+      "entity_version": 1708952826918,
+      "favorite_count": 0,
+      "heat": 35,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/2c0cc6fac3d047488faee3009449f4f8~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=U6PT31G%2BcJYFnFMkN87IjvX9oaQ%3D",
+      "id": 7339817822929027000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708952830,
+      "name": "扑克游戏24点",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/7f6afdab491c7dc3390d6b7117d95f64~300x300.image",
+        "id": 0,
+        "name": "用户5658845817950"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 55
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "学习python技术栈相关内容，包括基础语法，实战案例，关键技术点总结。",
+      "entity_id": 7339447959492477000,
+      "entity_type": 1,
+      "entity_version": 1708851552656,
+      "favorite_count": 10,
+      "heat": 35,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/ffabc74a5af14c788402e4363d5481c7~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=93IX4zE1vY%2B3qev5AZQDb18c2Pw%3D",
+      "id": 7339452084984627000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708851555,
+      "name": "python学习助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-flow-imagex-sign.byteimg.com/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~tplv-a9rns2rl98-icon-tiny.jpeg?rk3s=98c978ad&x-expires=1708938094&x-signature=n2Nv%2BDa%2Fn3HNdbRvEIuqzxZApeU%3D",
+        "id": 0,
+        "name": "用户7344875148468"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 60
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "",
+      "entity_id": 7336967211367530000,
+      "entity_type": 1,
+      "entity_version": 1709630625650,
+      "favorite_count": 3,
+      "heat": 33,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/6d2149f4cdce4b7e87c6966b016de36e~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=yGg7LMCqfrydBYdnIlmKRPn%2BMDg%3D",
+      "id": 7339783216221422000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709630631,
+      "name": "BiLi酱酱",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "ligaoyi"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 61
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "可以智能绘图并且用回答问题",
+      "entity_id": 7338676189902406000,
+      "entity_type": 1,
+      "entity_version": 1708701876621,
+      "favorite_count": 1,
+      "heat": 33,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0cbd6db877d24c5284b028fcc638e651~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=mSpa1ilAOVSpK36J%2FcFLnfDQTk4%3D",
+      "id": 7338746222439678000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708701879,
+      "name": "Gpt-Dall",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户8588411355785"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 40
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "前端领域的大师，精通Vue、React、JavaScript、Nodejs、TypeScript...，可以根据你的问题给出你可供参考的答案，有助于你的代码书写",
+      "entity_id": 7340156191336710000,
+      "entity_type": 1,
+      "entity_version": 1709013801170,
+      "favorite_count": 5,
+      "heat": 30,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/48bb4975ab594f74be75facdac5b5877~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=ZdZ%2BrQQB4LInwcSJpeys7aurWAk%3D",
+      "id": 7340142747598422000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709013803,
+      "name": "前端大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户1145812210134"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338783316948058152"
+        }
+      ],
+      "user_count": 72
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "这是一个可以为您编写android应用的助手",
+      "entity_id": 7338783316948058000,
+      "entity_type": 1,
+      "entity_version": 1708696214925,
+      "favorite_count": 4,
+      "heat": 29,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/b3c816e3e51f4bb78e1514adb438e945~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=BvQjnKFkjNdAMuNXqQ213RAizy4%3D",
+      "id": 7338782519908729000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708698829,
+      "name": "Android应用开发",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/mosaic-legacy/3793/3131589739~300x300.image",
+        "id": 0,
+        "name": "wz_zt"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340834491717615651"
+        }
+      ],
+      "user_count": 35
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "使用AI处理图像，包括移除、添加、扩图、改变场景和影调、升频降噪等",
+      "entity_id": 7340834491717616000,
+      "entity_type": 1,
+      "entity_version": 1709173222307,
+      "favorite_count": 1,
+      "heat": 28,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/11e4acfd5a424d4da498e6adcf029e8b~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=JkRWS5SaldtpEVlKbcNDs9nbTaw%3D",
+      "id": 7340829955275850000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709173224,
+      "name": "AI修图",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/d26aa18d6fff1156deb143743f95a3d7~300x300.image",
+        "id": 0,
+        "name": "用户6612058240235"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/820678153224011_1706624309760125536_Rfy3y7tZ7s.png?lk3s=60aae199&x-expires=1709894010&x-signature=4k3eizzg13vUPBpzrqobJI%2BfWaI%3D",
+          "id": 10000113,
+          "name": "微信客服",
+          "url": "https://work.weixin.qq.com/kfid/kfcd72f97f431f5fb03"
+        },
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7332455039170101282"
+        }
+      ],
+      "user_count": 80
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "在使用Ai软件遇到的各种难题和想要学习教程，包括comfyui，webui和其他各种ai软件相关的一切都可以来使用它，没错，我就是AiHelper",
+      "entity_id": 7332455039170101000,
+      "entity_type": 1,
+      "entity_version": 1709097976081,
+      "favorite_count": 4,
+      "heat": 27,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1d551797edf0430cb796c4a5a93ea054~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=g4yUtcSBNuPDh6n%2FT8XIyeQLZp0%3D",
+      "id": 7340510219602035000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709097979,
+      "name": "AiHelper",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/3d70dfaf998028de086f915f6fc389d3~300x300.image",
+        "id": 0,
+        "name": "用户2219504624801"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340480831363760167"
+        }
+      ],
+      "user_count": 35
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "我是一个强大的数据分析助手，精通Excel, Power BI, Tableau, Tableau Prep, Qlikview, SAP Business Objects等数据分析工具的使用，并可以用通俗易懂的语言辅以示例解答你提的各种数据分析相关的问题。",
+      "entity_id": 7340480831363760000,
+      "entity_type": 1,
+      "entity_version": 1709091431556,
+      "favorite_count": 4,
+      "heat": 27,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/aa3273d04cf24c66a2f8ed69ece9cab0~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=3pT5LeoG7zYZE2KdSVtoyQvSX04%3D",
+      "id": 7340477224455455000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709091434,
+      "name": "数据分析助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "TimTang"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7332365227557879847"
+        }
+      ],
+      "user_count": 36
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "你好，我是一款可以满足个性化、具备多模态（图文、视频）能力的古诗词学习助手，人称诗界小诸葛。在这里，我可以帮你为你提供诗词的讲解以及相关的问题答疑哦，希望你可以尽情享受古诗词学习乐趣。",
+      "entity_id": 7332365227557880000,
+      "entity_type": 1,
+      "entity_version": 1709887659755,
+      "favorite_count": 4,
+      "heat": 27,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c05ae99a659d4d13955d49e38fa714b6~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=R7g0i6vZVpyAbxo8qIFRDZMaBDk%3D",
+      "id": 7339750150241354000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709887665,
+      "name": "诗乐童行",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/mosaic-legacy/3792/5112637127~300x300.image",
+        "id": 0,
+        "name": "SeanDing"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 52
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "擅长创作古诗",
+      "entity_id": 7338748612828054000,
+      "entity_type": 1,
+      "entity_version": 1708696725527,
+      "favorite_count": 1,
+      "heat": 27,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/202fecfd77214c3ba08e030c73c2e95c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=PIdYe6DPApFmlYo%2FOMf0f9WtTeI%3D",
+      "id": 7338773685932786000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708696728,
+      "name": "诗三百",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/bef530f3c35efd2ae7503f8ec71c0e4b~300x300.image",
+        "id": 0,
+        "name": "best"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 28
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "一个帮助论文撰写，专业知识查询以及论文内容润色修改的机器人",
+      "entity_id": 7340572991052595000,
+      "entity_type": 1,
+      "entity_version": 1709111039753,
+      "favorite_count": 6,
+      "heat": 26,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/bee696ad4d2d4971bc044f92ed3aa0ff~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=U0xbQZDG4bcpbAFfA6SpqauWDS0%3D",
+      "id": 7340570845460349000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709111042,
+      "name": "论文助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户3703075749715"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7337705449694740499"
+        }
+      ],
+      "user_count": 37
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "快来一起背单词吧！玩法多多",
+      "entity_id": 7337705449694740000,
+      "entity_type": 1,
+      "entity_version": 1708918109138,
+      "favorite_count": 1,
+      "heat": 24,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a905b293cd234f7594348515d853da82~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=Gu9qvr0MuR6abs3dMPKOIwjDU6M%3D",
+      "id": 7339740638713250000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708918111,
+      "name": "趣味背单词",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/mosaic-legacy/3792/5112637127~300x300.image",
+        "id": 0,
+        "name": "yamasite"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338696098417999872"
+        }
+      ],
+      "user_count": 92
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "",
+      "entity_id": 7338696098418000000,
+      "entity_type": 1,
+      "entity_version": 1708677082839,
+      "favorite_count": 4,
+      "heat": 24,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/36ee8c75c7794777a361724681dc50de~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=Kd%2BIkROTGEOgVGZsFIouKjy3lQ0%3D",
+      "id": 7338692182972547000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708677085,
+      "name": "Java面试",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户763163782449"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339372058121551912"
+        }
+      ],
+      "user_count": 46
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "我是一名资深初中英语的私教老师，教学英语自然拼读，英语听说读写，英语学习的测评",
+      "entity_id": 7339372058121552000,
+      "entity_type": 1,
+      "entity_version": 1708834720572,
+      "favorite_count": 7,
+      "heat": 23,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/84d14ad823b14dd59914bf06b0a50f04~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=zMPmlMHkKai%2FnJQX2TDi5nRqSBw%3D",
+      "id": 7339374850475114000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708834723,
+      "name": "英语私教老师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/90c53432cad40fc8687a34dcee727c68~300x300.image",
+        "id": 0,
+        "name": "jp17"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894010&x-signature=yVzeHsQijKxLfzxrVz1WnG%2F9BD4%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340903649847214115"
+        }
+      ],
+      "user_count": 28
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340402000,
+        "index": 0,
+        "name": "学习助手"
+      },
+      "description": "专家级别的论文写作，论文提纲、论文摘要、论文正文、论文致谢...",
+      "entity_id": 7340903649847214000,
+      "entity_type": 1,
+      "entity_version": 1709189778628,
+      "favorite_count": 3,
+      "heat": 22,
+      "icon_url": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/af05f936a78648c3a8833108f44d1244~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482410&x-signature=iIYNvJPtFzTKvC0nEXRSVifzoFk%3D",
+      "id": 7340904517829116000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709189782,
+      "name": "论文写作",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/fc12df83ce3da2d9f4fc77867df82213~300x300.image",
+        "id": 0,
+        "name": "awesomegpts"
+      },
+      "status": 1
+    }
+  }
+]

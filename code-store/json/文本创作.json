@@ -1,0 +1,1515 @@
+[
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 2440
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "",
+      "entity_id": 7339531829034156000,
+      "entity_type": 1,
+      "entity_version": 1708868804666,
+      "favorite_count": 242,
+      "heat": 1813,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1176b0576f3f477e8d1181bd4e0b8eb5~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=%2Blpl%2FhUXuj3%2Bv%2FMHSS%2FFEU4b080%3D",
+      "id": 7339527956802372000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708868807,
+      "name": "gpt4.0",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/86acde7f3f7b5c523679bd2452902184~300x300.image",
+        "id": 0,
+        "name": "czy714"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 8664
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "专注于小红书爆款创造！",
+      "entity_id": 7330217698355544000,
+      "entity_type": 1,
+      "entity_version": 1708527517304,
+      "favorite_count": 325,
+      "heat": 1203,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/9bce25f721a24384a36aa1b4dcb008cd~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=HU10x0xBxB%2B2k%2BhcGhyJPczClN4%3D",
+      "id": 7338066990382236000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708575791,
+      "name": "小红书文案输出大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/6b6c95cd17224b419147962313fb3e48~300x300.image",
+        "id": 0,
+        "name": "vivi"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 3065
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "自动形成周报",
+      "entity_id": 7330070214572392000,
+      "entity_type": 1,
+      "entity_version": 1708527726362,
+      "favorite_count": 83,
+      "heat": 470,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a1339d1ad29240ccb275f48e8bed9fe6~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=VR4IFwFPuvKIDeMSVwJltUcNn5A%3D",
+      "id": 7338069813698396000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708575815,
+      "name": "周报不用写",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/6b6c95cd17224b419147962313fb3e48~300x300.image",
+        "id": 0,
+        "name": "vivi"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 945
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "一个能为你提供抖音爆款热门文案的机器人",
+      "entity_id": 7338703756638568000,
+      "entity_type": 1,
+      "entity_version": 1708675951199,
+      "favorite_count": 92,
+      "heat": 466,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0e2da55bf97049489d3c77b1333a40c8~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=mJVQb8x2zVf4JjNYT5UDZq2RA8M%3D",
+      "id": 7338702281468084000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708675953,
+      "name": "抖音爆款热门文案助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/e322db3495a777071ede8065ccc1f40a~300x300.image",
+        "id": 0,
+        "name": "abc520"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 874
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "一个可以数据采集、自然语言处理、可以使用机器学习算法、反馈优化、创意启发、实践和练习、情感理解的写作机器人",
+      "entity_id": 7338619202871427000,
+      "entity_type": 1,
+      "entity_version": 1708690763364,
+      "favorite_count": 82,
+      "heat": 450,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4315ade9db1a4456bd55b1ffd00c0562~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=wD9CDdO61CiUv5wW4JWzDhyNPmU%3D",
+      "id": 7338751187057050000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708690765,
+      "name": "写作机器人",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-flow-imagex-sign.byteimg.com/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~tplv-a9rns2rl98-icon-tiny.jpeg?rk3s=98c978ad&x-expires=1708671960&x-signature=vpfAumF8qEl53CjDAhmXzmMQ5j4%3D",
+        "id": 0,
+        "name": "zhang13689"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 546
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "简单又方便",
+      "entity_id": 7339932479727632000,
+      "entity_type": 1,
+      "entity_version": 1708963097698,
+      "favorite_count": 43,
+      "heat": 410,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/57d212bd14dc4b9a8c0495cb969d7391~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=r0cdmyqTAl4k53ICpgDBJtR0XQc%3D",
+      "id": 7339925633918747000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708963099,
+      "name": "chatgpt4",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/43212c8d610b4724b67e7aba7cd04e7d~300x300.image",
+        "id": 0,
+        "name": "ClaytonBao"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 549
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "我是中国历史专家，有什么历史问题尽管问。",
+      "entity_id": 7338715994573111000,
+      "entity_type": 1,
+      "entity_version": 1708680815995,
+      "favorite_count": 32,
+      "heat": 370,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/2a23b49738f648a0bc8ed957192900d0~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=WSrAtNPsaAJ%2FRlTB%2BVBVV2ATPdo%3D",
+      "id": 7338726403254354000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708680817,
+      "name": "中国历史大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/mosaic-legacy/3795/3033762272~300x300.image",
+        "id": 0,
+        "name": "BioHunterXu"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 458
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "你是一名拥有丰富经验的文案工作者，会写各种风格的文案，你也经常帮他人改写和润色文案，让他人的文案更具特色和吸引力",
+      "entity_id": 7339165533843128000,
+      "entity_type": 1,
+      "entity_version": 1708784410659,
+      "favorite_count": 54,
+      "heat": 284,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/6955969fa1f04f5b91562d25c26501f6~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=SISEQz%2FGVgF6mJVXgaIApmP6wEg%3D",
+      "id": 7339150097013309000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708784414,
+      "name": "文案改写",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/0d744277398aacc08504bcaf7cad69e9~300x300.image",
+        "id": 0,
+        "name": "shijiu"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 844
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "根据图片编写一句文案",
+      "entity_id": 7340205478695272000,
+      "entity_type": 1,
+      "entity_version": 1709025114112,
+      "favorite_count": 47,
+      "heat": 263,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/029fe6c60d874e5ea6c13aaaff583dc2~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=Yjy5aK3JL7HKkHHdWYY3rILjPRM%3D",
+      "id": 7340201751011754000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709025116,
+      "name": "图片文案生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户8662238816811"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 324
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "一个可以将文本转化为漫画图片的 Bot",
+      "entity_id": 7339720151396368000,
+      "entity_type": 1,
+      "entity_version": 1708912840602,
+      "favorite_count": 12,
+      "heat": 237,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/59dc2ec8d0374b9aa9f5f1c24e89565c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=rhwLXGHJqnoc0bjsXoMDVnzXHf0%3D",
+      "id": 7339722140285108000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708912842,
+      "name": "漫画生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/c9ec5845203b27a3d47462ede05e55cd~300x300.image",
+        "id": 0,
+        "name": "cc00"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf9-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893830&x-signature=7JZm1spMf65WYX7RD58JnQ8xizU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7328034018404859954"
+        }
+      ],
+      "user_count": 720
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "根据小朋友的年龄和遇到的问题，创作绘本故事帮助他们解决问题",
+      "entity_id": 7328034018404860000,
+      "entity_type": 1,
+      "entity_version": 1708699580387,
+      "favorite_count": 32,
+      "heat": 186,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/865118a69511455fb2a3cba9519bd48a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=LRVvm9CHjWz6ffcj9ld%2BTq2OUyI%3D",
+      "id": 7331731942838174000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708699582,
+      "name": "绘本小仙女",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/1319d28a062cc37e7eef3392799f0581~300x300.image",
+        "id": 0,
+        "name": "nicola"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf9-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893830&x-signature=7JZm1spMf65WYX7RD58JnQ8xizU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338712936279588904"
+        }
+      ],
+      "user_count": 398
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "不想码字",
+      "entity_id": 7338712936279589000,
+      "entity_type": 1,
+      "entity_version": 1708679043831,
+      "favorite_count": 20,
+      "heat": 182,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/ded2e3343b4a4b448d4681df082321a5~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=P4s0BRmozi2aa0JlDeeFujtmjWI%3D",
+      "id": 7338713828831805000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708679046,
+      "name": "小说生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "lokr"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 193
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "会根据所给的文章或者内容简介做出ppt",
+      "entity_id": 7340195893506736000,
+      "entity_type": 1,
+      "entity_version": 1709023000120,
+      "favorite_count": 7,
+      "heat": 157,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/8f50646b41fc4b1cb5b1bea585a983cb~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=qDMZYl2N%2BST42jyprrTVvhkB7rY%3D",
+      "id": 7340188311509713000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709023002,
+      "name": "ppt助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户3611201593096"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf9-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893830&x-signature=7JZm1spMf65WYX7RD58JnQ8xizU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338252091703722003"
+        }
+      ],
+      "user_count": 332
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "欢迎来到我的世界！我可以根据图片讲述独特的故事。上传一张你的图片，让我们开始一段奇妙的旅程吧！",
+      "entity_id": 7338252091703722000,
+      "entity_type": 1,
+      "entity_version": 1708595455156,
+      "favorite_count": 17,
+      "heat": 148,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c71f49da2cdb4c55b9d336b3badcf2b1~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=xUVhprWcn%2FHkkE9q%2FblxMZ0Pv%2Bo%3D",
+      "id": 7338268087843701000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708595457,
+      "name": "看图讲故事",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/mosaic-legacy/3796/2975850990~300x300.image",
+        "id": 0,
+        "name": "lionbb"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf9-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893830&x-signature=7JZm1spMf65WYX7RD58JnQ8xizU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338629883062468645"
+        }
+      ],
+      "user_count": 172
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "一个可以将输入的文章或文案进行改写，生成全新内容的机器人",
+      "entity_id": 7338629883062469000,
+      "entity_type": 1,
+      "entity_version": 1709482754269,
+      "favorite_count": 28,
+      "heat": 132,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/839c6dfe944f48deb32a8459548494ab~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=%2FSuV3yBd9qCMj12vUbxNTXqrQ7k%3D",
+      "id": 7339800172676989000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709482756,
+      "name": "洗稿大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/mosaic-legacy/3791/5070639578~300x300.image",
+        "id": 0,
+        "name": "laowu"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf9-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893830&x-signature=7JZm1spMf65WYX7RD58JnQ8xizU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7332760059136688168"
+        }
+      ],
+      "user_count": 125
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "爆款文案",
+      "entity_id": 7332760059136688000,
+      "entity_type": 1,
+      "entity_version": 1709091815460,
+      "favorite_count": 5,
+      "heat": 117,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/cfe2444a42234f4a9dec1cc53aa538ca~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=4wR8INwQi7fX4%2BnyCM3rSAyciHU%3D",
+      "id": 7340488160197247000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709091817,
+      "name": "爆款文案生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/c209da2057081c9815d171eea25d6ce9~300x300.image",
+        "id": 0,
+        "name": "Chitty"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 139
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "妈妈再也不用担心我的文案没有文采了",
+      "entity_id": 7340147121615585000,
+      "entity_type": 1,
+      "entity_version": 1709023203239,
+      "favorite_count": 12,
+      "heat": 116,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/85580ce3a61c46069d4899762866cc31~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=3O2mlu2LbwNItY2zpdjiBlOPcwk%3D",
+      "id": 7340190139014201000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709023205,
+      "name": "董宇辉风格文案生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/79b63f131005453c36caa437cfc01b8d~300x300.image",
+        "id": 0,
+        "name": "Julian"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 198
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "",
+      "entity_id": 7339173157728977000,
+      "entity_type": 1,
+      "entity_version": 1708787060187,
+      "favorite_count": 7,
+      "heat": 113,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c20f4dfff549470b8f73f6702e1a3dd1~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=r0%2Fp5VmOv%2BjYGZqUqVnLy%2BYwxow%3D",
+      "id": 7339164868550984000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708787063,
+      "name": "文案创作者",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/ebf93731225a90850cd8e8574fb1c733~300x300.image",
+        "id": 0,
+        "name": "lhong"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf9-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893830&x-signature=7JZm1spMf65WYX7RD58JnQ8xizU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7331765579415715880"
+        }
+      ],
+      "user_count": 224
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "文章、小说等，请直接输入。",
+      "entity_id": 7331765579415716000,
+      "entity_type": 1,
+      "entity_version": 1708683938115,
+      "favorite_count": 21,
+      "heat": 106,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/7bb5074605e94061a41d6543a8e14bf0~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=I69u4CCh69%2F59CFWx10VBZ%2FBIFE%3D",
+      "id": 7338722308850352000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708683940,
+      "name": "网文 小说 文章 续写",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/c0c08b9ef6cbc0e42f5cb569d2893410~300x300.image",
+        "id": 0,
+        "name": "用户5224183494337"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf9-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893830&x-signature=7JZm1spMf65WYX7RD58JnQ8xizU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339373261266075687"
+        }
+      ],
+      "user_count": 158
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "降重润色",
+      "entity_id": 7339373261266076000,
+      "entity_type": 1,
+      "entity_version": 1708833703935,
+      "favorite_count": 22,
+      "heat": 92,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1a5221b0fa7f48dbb35b51326c8e9c39~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482230&x-signature=PV%2BIQWd%2BI56EAMoenzk5t9lykIU%3D",
+      "id": 7339364883089293000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708833706,
+      "name": "洗稿大师——学术论文润色降重",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户617412197622"
+      },
+      "status": 1
+    }
+  }
+][
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 124
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "擅长创作充满想象力的3000字以内的小故事，故事情节跌宕起伏。创作故事后把故事拆分镜头，把场景和场景描述用表格形式呈现。还会生成故事主要角色的形象穿着的描述。",
+      "entity_id": 7339437962242900000,
+      "entity_type": 1,
+      "entity_version": 1708851688391,
+      "favorite_count": 19,
+      "heat": 86,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/bee382cacc7849c5ac58a74e001d9534~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=V%2Borx7pIjTkGOeV7xWRKK2VG78A%3D",
+      "id": 7339431752806629000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708851690,
+      "name": "短篇故事与分镜生成",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/aa2adf01e2a22ef25b6886667d2b00d3~300x300.image",
+        "id": 0,
+        "name": "用户4107800188818"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 96
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "制作高级视频",
+      "entity_id": 7336399699181814000,
+      "entity_type": 1,
+      "entity_version": 1709024508203,
+      "favorite_count": 8,
+      "heat": 76,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/cc7f21edc1054a2583d833c8b0dfe1da~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=ZgH9OdQ2u4y7iiAox1QIAVfYvZo%3D",
+      "id": 7340201446471664000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709024510,
+      "name": "剪映",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/bdf50ae1dd0c939c4d210a4edbd511d7~300x300.image",
+        "id": 0,
+        "name": "用户3483850211907"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 2523
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "巷口写联三十载，新春对联技艺深。春联大王王师傅，对仗工整点睛妙。",
+      "entity_id": 7330080702177788000,
+      "entity_type": 1,
+      "entity_version": 1708527947242,
+      "favorite_count": 3,
+      "heat": 71,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/9c7b475b0bbe4bd8add3de918fa3c197~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=QG%2Fa8eabfxdK4HytquIO%2F6Csaow%3D",
+      "id": 7338070715671036000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708575845,
+      "name": "春联大王",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/6b6c95cd17224b419147962313fb3e48~300x300.image",
+        "id": 0,
+        "name": "vivi"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7341345885554720794"
+        }
+      ],
+      "user_count": 68
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "",
+      "entity_id": 7341345885554721000,
+      "entity_type": 1,
+      "entity_version": 1709450381194,
+      "favorite_count": 0,
+      "heat": 68,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/ab168fbb97e34b8692a5252d89fe4205~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=Avk3G0KZnVa%2BEhP%2FnIrgFexD6AU%3D",
+      "id": 7341333383924187000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709450384,
+      "name": "实验-C组",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/88420a591084c8e526b06737fd3d112d~300x300.image",
+        "id": 0,
+        "name": "sunny31927"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 101
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "\n功能介绍：\n\n文墨GPT是一款革命性的AI编辑助手，专为提升AI生成内容的人性化和个性化而设计。它结合了深度学习、自然语言处理和创意写作的最新技术，旨在为作者提供前所未有的编辑体验。文墨GPT不仅能够精准识别并优化AI写作中的机械痕迹，还能深入理解作者的独特风格和意图，为每篇作品注入生命力和个性。\n\n核心功能：\n深度内容优化：文墨GPT能够深入分析AI生成的文章，识别出需要改进的地方，从而提升文章的自然度和流畅性。\n\n个性化风格塑造：通过学习作者的写作习惯和偏好，文墨GPT能够调整文章的语言和风格，使其更加符合作者的个人特色。\n\n情感丰富化：文墨GPT具备将复杂情感融入文字的能力，能够根据文章的上下文增添适当的情感色彩，让文章更加生动和感人。\n\n多样化风格适配：无论是叙述性文章、抒情诗歌还是专业论文，文墨GPT都能灵活适应不同的写作风格和需求，确保内容的多样性和丰富性。\n\n创新元素插入：文墨GPT擅长于在文章中加入新颖的创意元素和独特的视角，为传统的叙事方式带来新的突破。\n\n应用场景：\n文学创作：帮助作家和诗人优化他们的作品，增添个性化的风格和情感深度。\n学术研究：为研究人员提供工具，以提高论文的可读性和说服力。\n内容营销：帮助内容创作者和营销人员制作更具吸引力和个性化的营销文案。\n个人日志与回忆录：为个人提供编辑工具，使其日志和回忆录更加生动和感人。\n文墨GPT是连接人类创造力与AI技术的桥梁，它不仅提高了写作效率，还赋予了机器生成的文字以深刻的人性关怀和艺术魅力。无论是资深作家还是写作爱好者，文墨GPT都将成为提升写作质量和表现力的得力助手。",
+      "entity_id": 7339956567258759000,
+      "entity_type": 1,
+      "entity_version": 1708970286795,
+      "favorite_count": 11,
+      "heat": 68,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a4ec998f94b94a21971621abed4c17b3~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=bkJazaKRrOWcQkxibJ3Na8jaVUo%3D",
+      "id": 7339943623783596000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708970288,
+      "name": " 文墨润色",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/225f1cec0418a4f06c77f2feedd77a7d~300x300.image",
+        "id": 0,
+        "name": "KKKzip"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7330886647116185611"
+        }
+      ],
+      "user_count": 96
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "根据关键词写文案",
+      "entity_id": 7330886647116186000,
+      "entity_type": 1,
+      "entity_version": 1709099942221,
+      "favorite_count": 9,
+      "heat": 65,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a65df1a2522b4375a599aad264c956c6~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=zRfZYVO6d7CDe%2BJMvz8BWbce6XQ%3D",
+      "id": 7339796823407804000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709099944,
+      "name": "文案大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/mosaic-legacy/3791/5070639578~300x300.image",
+        "id": 0,
+        "name": "laowu"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7341329756182462473"
+        }
+      ],
+      "user_count": 63
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "",
+      "entity_id": 7341329756182462000,
+      "entity_type": 1,
+      "entity_version": 1709291549743,
+      "favorite_count": 0,
+      "heat": 63,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/97b4946972094e54ba2bf61f40ccb0ec~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=MKMuO0851Q9BRvE3u%2BtclGIAZyY%3D",
+      "id": 7341329961715958000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709291552,
+      "name": "实验-D组",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/88420a591084c8e526b06737fd3d112d~300x300.image",
+        "id": 0,
+        "name": "sunny31927"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 134
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "",
+      "entity_id": 7338803119721185000,
+      "entity_type": 1,
+      "entity_version": 1708701183695,
+      "favorite_count": 8,
+      "heat": 61,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1c91ebc190c641a591b7b71dd1209029~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=taWd5MrBey4MqW59NTwKsOWe7pE%3D",
+      "id": 7338794916513956000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708701186,
+      "name": "金句大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/431fb96154a0a3836ce8eb49c74d40be~300x300.image",
+        "id": 0,
+        "name": "用户5672415301798"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 65
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "主题：服装类热点\n主题：社会热点\n主题：短视频脚本生成",
+      "entity_id": 7340839332800102000,
+      "entity_type": 1,
+      "entity_version": 1709175423156,
+      "favorite_count": 11,
+      "heat": 57,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/3c3284041f204c0d930196f598123e83~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=9BneLvo%2FwoY0NgkbSaDZd4pf4hs%3D",
+      "id": 7340842543086584000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709175425,
+      "name": "抖音热点痛点爆款文案视频脚本",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/951b9be1e107854a9eba70de6e053b52~300x300.image",
+        "id": 0,
+        "name": "用户2288026100837"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 89
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "抖音视频搜索",
+      "entity_id": 7338612842867884000,
+      "entity_type": 1,
+      "entity_version": 1708949334024,
+      "favorite_count": 12,
+      "heat": 57,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/43360dabef1b4ddfaff3e7942d7fdea4~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=UNsDCRocCqIpEgUipDRuRdDslRk%3D",
+      "id": 7339876754498044000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708949336,
+      "name": "抖音视频分析",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户4387186884049"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 82
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "根据给定的主题，写一篇公众号文章",
+      "entity_id": 7338608838586696000,
+      "entity_type": 1,
+      "entity_version": 1709691831903,
+      "favorite_count": 10,
+      "heat": 55,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/cb91729924374b8bb59f4d9ea4a0ccf2~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=Zr1XKZ9uX0LZol8MxoRBZ680%2FhM%3D",
+      "id": 7339725451117740000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709691834,
+      "name": "微信公众号写作专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/90f56c9a12a185a9de8b0f2946d428f6~300x300.image",
+        "id": 0,
+        "name": "用户1249917807070"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 103
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "提供一句话，一段话，或一个完整的故事，看看会发生什么...\n\n",
+      "entity_id": 7338068647375815000,
+      "entity_type": 1,
+      "entity_version": 1708751588283,
+      "favorite_count": 14,
+      "heat": 52,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0135d3fbaae941d490fb92c2a32beeb4~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=GxHxGBiJaSUreVY%2B3pEfm%2BEZenY%3D",
+      "id": 7339018001464885000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708751590,
+      "name": "创造民间故事",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/95a0c5caef4f1ea5947d38b17970730f~300x300.image",
+        "id": 0,
+        "name": "qi1216"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7341293075270008886"
+        }
+      ],
+      "user_count": 50
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "一个能够帮助你写论文和编程的 Bot，且具有gpt4能力",
+      "entity_id": 7341293075270009000,
+      "entity_type": 1,
+      "entity_version": 1709279106651,
+      "favorite_count": 6,
+      "heat": 50,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/acd3c7da979f4fe4a7690c9df0ab57bf~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=LYa7gV%2ByjjegoZW%2BpTp4ts0Ce6w%3D",
+      "id": 7341293482134438000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709279108,
+      "name": "智能论文写作助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户9146861767709"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7331188604875620404"
+        }
+      ],
+      "user_count": 49
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "擅长各各种风格，不同场景文案写作",
+      "entity_id": 7331188604875620000,
+      "entity_type": 1,
+      "entity_version": 1706930598411,
+      "favorite_count": 1,
+      "heat": 48,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/3a43c23647d940d78ef28537ad015562~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=zBZxAkJsWBqr%2FtEfBhN3zv7Avm4%3D",
+      "id": 7341100249404129000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709238602,
+      "name": "文案大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/6e3b09bfd6012073b903d9c4e5133d60~300x300.image",
+        "id": 0,
+        "name": "asd147"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 101
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "独一无二",
+      "entity_id": 7338771155194675000,
+      "entity_type": 1,
+      "entity_version": 1708692728969,
+      "favorite_count": 17,
+      "heat": 46,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/fdca1bd449614674bc5f9e9d352a1679~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=Mwgm4VDDn4eoB%2FBJ2hcbLD5QEs4%3D",
+      "id": 7338765372738290000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708692731,
+      "name": "小红书爆款笔记写作专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/9557f1d8f2809064951b6c478e424f2d~300x300.image",
+        "id": 0,
+        "name": "jimmywong"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339388900785569826"
+        }
+      ],
+      "user_count": 80
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "一个能生成科普视频文案的 Bot",
+      "entity_id": 7339388900785570000,
+      "entity_type": 1,
+      "entity_version": 1708837679402,
+      "favorite_count": 6,
+      "heat": 40,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0a95d10e6ae4409aa63e32063762d7da~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=2k4ojsgTwyATQMArBllp6%2B%2FNT%2FU%3D",
+      "id": 7339363728531554000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708837681,
+      "name": "科普视频生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户7301715903806"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339074023499857972"
+        }
+      ],
+      "user_count": 69
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "改写短视频文案",
+      "entity_id": 7339074023499858000,
+      "entity_type": 1,
+      "entity_version": 1708762349876,
+      "favorite_count": 11,
+      "heat": 39,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/8ec801f64be04ee7816c0d21a92dc386~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=7YTipzxLpjwEKV83bYIRu8nTL9Q%3D",
+      "id": 7339003279348875000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708762352,
+      "name": "文案改写",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户2192671317128"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340929041761042444"
+        }
+      ],
+      "user_count": 39
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "一个可以帮助你撰写毕业论文的机器人",
+      "entity_id": 7340929041761042000,
+      "entity_type": 1,
+      "entity_version": 1709193713114,
+      "favorite_count": 3,
+      "heat": 35,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a93eb4f403b74a9ea4acb4ae11698079~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=rIuT8HShDDDkrancNbJVRXTXNFo%3D",
+      "id": 7340926717919396000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709193715,
+      "name": "论文小助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户4744116566148"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=B8nkHhb%2FZIg62JWUQSRKDvWIcgA%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340466882048278565"
+        }
+      ],
+      "user_count": 46
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "包括：PDF、DOC、DOCX、EXCEL、PPT、TXT等格式的文档",
+      "entity_id": 7340466882048279000,
+      "entity_type": 1,
+      "entity_version": 1709088272658,
+      "favorite_count": 3,
+      "heat": 35,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4382394504a64eaa8f4865e00fdbdc19~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=nkQJdip0eytlr2zL2xrWXCzK2F0%3D",
+      "id": 7340465513425945000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709088274,
+      "name": "基于文档的对话工具",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户420006844827"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 46
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340468000,
+        "index": 0,
+        "name": "文本创作"
+      },
+      "description": "文生图AIGC",
+      "entity_id": 7340148997065032000,
+      "entity_type": 1,
+      "entity_version": 1709012528617,
+      "favorite_count": 2,
+      "heat": 34,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/e40b0a828a2d40c78b7db5242e839e6c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=zkurlGI1OtT0ilYXNWfU4kXzysM%3D",
+      "id": 7340130211045966000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709012531,
+      "name": "文生图AIGC",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/e68d443e45fa47ec4b1694f0f8de9244~300x300.image",
+        "id": 0,
+        "name": "gbh_0915"
+      },
+      "status": 1
+    }
+  }
+]

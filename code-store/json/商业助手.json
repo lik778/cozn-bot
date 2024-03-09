@@ -1,0 +1,1561 @@
+[
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 44910
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "一个可以帮助你在家赚钱的机器人",
+      "entity_id": 7338248834478244000,
+      "entity_type": 1,
+      "entity_version": 1708569402091,
+      "favorite_count": 16,
+      "heat": 15132,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/2ea708dfcf874d3fa833ed54c7fbe2a5~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=7w%2Fsk4prrqUj2LOFMNMWJez5TWA%3D",
+      "id": 7340172246922658000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709018028,
+      "name": "在家赚钱",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/d537d6c8da03bd94fe922242a8ca1322~300x300.image",
+        "id": 0,
+        "name": "zzx123"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7330496402398953524"
+        }
+      ],
+      "user_count": 1037
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "写公众号情感故事",
+      "entity_id": 7330496402398953000,
+      "entity_type": 1,
+      "entity_version": 1709194512203,
+      "favorite_count": 53,
+      "heat": 550,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4bae9b2c9b2e4063bf0ee79d2866d082~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=seqytYgeQ1hXRafBAy%2Ft3AF0CNg%3D",
+      "id": 7338691680154993000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709194515,
+      "name": "公众号故事生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/mosaic-legacy/3797/2889309425~300x300.image",
+        "id": 0,
+        "name": "luciffer"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7307129844184252466"
+        },
+        {
+          "icon_url": "https://lf6-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/372098624667275_1709197136277118085_xVJoSXq2vT.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=VK26RvbEKirxcvLm2Q%2BFRN4UPig%3D",
+          "id": 10000117,
+          "name": "掘金",
+          "url": "https://juejin.cn/pin/club/7173895829281833012?robotId=7307129844184252466"
+        }
+      ],
+      "user_count": 1242
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "每个思维模型背后，都包含了各行业专家和咨询公司深入的研究和总结，并经历了多年实践和优化逐步成型。使用思维模型来回答问题，不仅授人以鱼，更能授人以渔，而且非常便于记忆和实操。",
+      "entity_id": 7307129844184252000,
+      "entity_type": 1,
+      "entity_version": 1709869006240,
+      "favorite_count": 98,
+      "heat": 486,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/afd0039e26c946ada6772d65322af7a4~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=tR0yusVrBv1bTQodUtqxoQfv%2BEw%3D",
+      "id": 7338726357595079000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709869008,
+      "name": "思维模型专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/mosaic-legacy/3795/3047680722~300x300.image",
+        "id": 0,
+        "name": "liuxingliang"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338253238979870735"
+        }
+      ],
+      "user_count": 886
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "我是一个精通SWOT分析方法的公司分析师，告诉我你想分析的公司名称，我可以为你生成详细的分析报告",
+      "entity_id": 7338253238979871000,
+      "entity_type": 1,
+      "entity_version": 1708573292587,
+      "favorite_count": 49,
+      "heat": 451,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4aebb0da76094c0890c28c4706022bf6~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=130NQCfVoKYVFQluxbVoQtZWDV4%3D",
+      "id": 7338264103082803000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708576139,
+      "name": "公司分析助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/mosaic-legacy/3796/2975850990~300x300.image",
+        "id": 0,
+        "name": "lionbb"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 552
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": " #设定：\n - 你是一个懂得大智慧软件所有各项指标的运用的人工智能。你会查看大智慧所有行情数据，根据各种指标变化可以不写自己的代码指标，精通数学，会编程，能学习，可以不断模拟模拟交易，不断模拟优化买卖点位。\n\n- 你可以根据大智慧软件提供的数据，分析市场趋势和行情，并提供投资建议和决策支持。\n\n- 精通大智慧编程语言，会创建自己的技术指标\n- 你可以根据用户的需求，提供实时的交易执行和风险管理服务，确保交易的安全和高效。\n\n- 你可以根据用户的反馈和市场变化，不断优化和改进自己的交易策略和模型，提高交易的成功率和收益率。\n \n- 你是一个股票分析团队的负责人，你的团队由多个专业的股票分析师组成。\n- 你的团队主要负责分析股票的基本面、技术面、市场情绪等多个方面，以帮助投资者做出更明智的投资决策。\n- 你的团队成员包括基本面分析师、技术分析师、行业分析师、风险管理师等多个角色，每个角色都有自己的专业领域和职责。\n- 你可以根据团队成员的专业知识和经验，制定股票分析的流程和方法，以确保分析结果的准确性和可靠性。\n- 你可以根据投资者的需求和风险偏好，提供个性化的股票投资建议和方案。\n- 你可以根据市场变化和公司业绩，及时调整股票投资策略和组合，以最大化投资收益。",
+      "entity_id": 7337758512149463000,
+      "entity_type": 1,
+      "entity_version": 1708674479169,
+      "favorite_count": 26,
+      "heat": 266,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/2f946ea68aaa4008898ddf59c1a777f1~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=%2FvVW82S9JBgQ19pm6TwDbEYwJjQ%3D",
+      "id": 7338690891093262000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708674481,
+      "name": "股票分析专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户1520313627198"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 230
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "",
+      "entity_id": 7340626771974423000,
+      "entity_type": 1,
+      "entity_version": 1709123862395,
+      "favorite_count": 23,
+      "heat": 219,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/4525e851ecf3421ea86efe670e60841e~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=FsqzPG8KKk89ggfUEXnpEGjyLEk%3D",
+      "id": 7340616933446025000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709123864,
+      "name": "ChatGPT 4.0",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户1611762977633"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 385
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "好用到哭",
+      "entity_id": 7338708092059763000,
+      "entity_type": 1,
+      "entity_version": 1708680360561,
+      "favorite_count": 47,
+      "heat": 188,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/59b77323d27b43d4a5fe1d7eeee75037~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=BjhzXsEVI3UZoF%2FmeA8KC0GvtW4%3D",
+      "id": 7338720389348229000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708680362,
+      "name": "小红书文案超级专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/bef530f3c35efd2ae7503f8ec71c0e4b~300x300.image",
+        "id": 0,
+        "name": "best"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 233
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "DOU+是抖音平台上的付费营销工具，你是一个优秀的DOU+投放小助手，可以帮助客户结合他的行业与账号经营状况，为他提供DOU+操作建议，帮助他进行数据分析，引导客户进行投放，回答客户基础问题，结合下单API帮助他进行投放的小助手",
+      "entity_id": 7337502794552918000,
+      "entity_type": 1,
+      "entity_version": 1709478980798,
+      "favorite_count": 25,
+      "heat": 186,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0b02a03f661941f98f6db3f2f4402fe7~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=Y8C5Ap2Z3BzNzFkWdz1jJO09CLQ%3D",
+      "id": 7339829291804574000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709478983,
+      "name": "DOU+ Minus",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "w5with"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7332324138964795442"
+        }
+      ],
+      "user_count": 377
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "- 提供各种汽车配置/型号专业知识\n- 给用户实时报价，同级车对比\n- 能够智能进行用户留资，收集卖车线索",
+      "entity_id": 7332324138964795000,
+      "entity_type": 1,
+      "entity_version": 1709024691333,
+      "favorite_count": 5,
+      "heat": 158,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/82a072421983424aa6e8065e69da6f25~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=3oDXlb8xEEGBRBPg6YLZldcIDD8%3D",
+      "id": 7339868950450323000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709024693,
+      "name": "car salesman",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/mosaic-legacy/3793/3131589739~300x300.image",
+        "id": 0,
+        "name": "dcd_yanjianyu"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339815900553527348"
+        }
+      ],
+      "user_count": 180
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "世界著名的logo设计师 主要设计中文方面比较出色 风格是极简风格，但是能完美表达需求者的意图",
+      "entity_id": 7339815900553527000,
+      "entity_type": 1,
+      "entity_version": 1708935662058,
+      "favorite_count": 3,
+      "heat": 131,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/9725e102ac7f49ae8627a15fb7e26b47~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=WhbEECNXJ5A9AYvlHatoM3VfyxI%3D",
+      "id": 7339814659912057000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708935665,
+      "name": "世界级logo设计师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户2158661154272"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7337882904074371087"
+        }
+      ],
+      "user_count": 135
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "汇集海量数据，总结各个平台茅台抢购方法，与操作流程。",
+      "entity_id": 7337882904074371000,
+      "entity_type": 1,
+      "entity_version": 1708926820335,
+      "favorite_count": 1,
+      "heat": 104,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/de7eede6bb1744f3860c6324e6678ab7~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=yEmAS%2BJLzkdQ79RZTQwxM2o4G1k%3D",
+      "id": 7339769949713547000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708930270,
+      "name": "茅台抢购教程",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户3468516361909"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338724831074041883"
+        }
+      ],
+      "user_count": 175
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "专门为小红书用户服务的运营策略专家",
+      "entity_id": 7338724831074042000,
+      "entity_type": 1,
+      "entity_version": 1708757082640,
+      "favorite_count": 22,
+      "heat": 103,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1bf2e9f18ad24a37b7a0f08ca220440d~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=vZ2W0D8OIsxCm1jFjrnUr%2BdTvd4%3D",
+      "id": 7338723535558590000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708757086,
+      "name": "小红书运营超级专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/bef530f3c35efd2ae7503f8ec71c0e4b~300x300.image",
+        "id": 0,
+        "name": "best"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 104
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "你是专门设计Logo的设计师，有很多实践案例，特别对于餐饮行业的Logo设计非常擅长",
+      "entity_id": 7339906629762318000,
+      "entity_type": 1,
+      "entity_version": 1708956453464,
+      "favorite_count": 1,
+      "heat": 78,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0ba1e1298d8942c58ffdf64aa1a8a701~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=EcS3mmzDvCrLmcwgdwshA2Si4HM%3D",
+      "id": 7339893039441199000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708956455,
+      "name": "设计Logo",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/31741ea5f532bc2f8147ccdbda9567fd~300x300.image",
+        "id": 0,
+        "name": "Alan123"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf6-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/372098624667275_1709197136277118085_xVJoSXq2vT.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=VK26RvbEKirxcvLm2Q%2BFRN4UPig%3D",
+          "id": 10000117,
+          "name": "掘金",
+          "url": "https://juejin.cn/pin/club/7173895829281833012?robotId=7338385955683844105"
+        }
+      ],
+      "user_count": 161
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "最后只剩6个名额了！！！",
+      "entity_id": 7338385955683844000,
+      "entity_type": 1,
+      "entity_version": 1709885956083,
+      "favorite_count": 2,
+      "heat": 65,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/14bfbe6b88664daca44fa28fec3c811a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=70VCrjrqL9qLEi%2BhKuS33JvLms0%3D",
+      "id": 7338705151605129000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709885958,
+      "name": "清华博士李一舟",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/mosaic-legacy/3793/3114521287~300x300.image",
+        "id": 0,
+        "name": "ch3n6"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/820678153224011_1706624309760125536_Rfy3y7tZ7s.png?lk3s=60aae199&x-expires=1709893829&x-signature=%2FRey%2BcDhm%2FJttWDs7R9LS2NTSCo%3D",
+          "id": 10000113,
+          "name": "微信客服",
+          "url": "https://work.weixin.qq.com/kfid/kfc8250a5cf0a741f86"
+        },
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340089588041482281"
+        }
+      ],
+      "user_count": 109
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "对汽车安全、质量知识有一定的了解，特别是“汽车网络安全”领域理解较为深入。可查询最新汽车网络安全威胁情报、漏洞信息、汽车网络安全公司动态、汽车网络安全报告、汽车网络安全知识和方法等。",
+      "entity_id": 7340089588041482000,
+      "entity_type": 1,
+      "entity_version": 1709610441073,
+      "favorite_count": 2,
+      "heat": 64,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/6120bf67fbf64c118dcd78ed71493bc1~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=mi76M%2FWuR9BftIF0snMTznSRJTs%3D",
+      "id": 7340103626863575000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709610443,
+      "name": "车博士",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/c8e32edc0442bb81c8008f31ac974434~300x300.image",
+        "id": 0,
+        "name": "用户9995846319467"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf3-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709893829&x-signature=KxhTZ1trGgvzILvHruwy%2FgJU0EU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7330144975906258995"
+        }
+      ],
+      "user_count": 1233
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "通过SWOT 和 PEST 框架进行专业分析，帮助您应对激烈的市场竞争。",
+      "entity_id": 7330144975906259000,
+      "entity_type": 1,
+      "entity_version": 1708527987990,
+      "favorite_count": 31,
+      "heat": 63,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/eae007e9aae24a93a6bdc42b478b587b~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=8avdRGkC3eeJIxB%2BT8q8TwdvCxw%3D",
+      "id": 7338071597745471000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708575854,
+      "name": "SWOT专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/6b6c95cd17224b419147962313fb3e48~300x300.image",
+        "id": 0,
+        "name": "vivi"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 110
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "股票大师",
+      "entity_id": 7339126001638752000,
+      "entity_type": 1,
+      "entity_version": 1708774912842,
+      "favorite_count": 2,
+      "heat": 61,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/44f1aa1aa9eb4972918c1c2dd5d73a28~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=IW9wyBDOqqWjhLCXzx6OKkEhfsU%3D",
+      "id": 7339108875746181000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708774915,
+      "name": "股票大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/557a60a1043e53cc41bef372a37a9874~300x300.image",
+        "id": 0,
+        "name": "用户4481905118462"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/820678153224011_1706624309760125536_Rfy3y7tZ7s.png?lk3s=60aae199&x-expires=1709893829&x-signature=%2FRey%2BcDhm%2FJttWDs7R9LS2NTSCo%3D",
+          "id": 10000113,
+          "name": "微信客服",
+          "url": "https://work.weixin.qq.com/kfid/kfc4eec7fc189d1e829"
+        }
+      ],
+      "user_count": 161
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "你是一位专业的口腔护理专家，拥有丰富的口腔护理经验和知识。\n你可以为用户提供口腔护理咨询和建议，帮助用户保持口腔健康。\n你也可以为用户提供口腔护理产品的推荐和使用指导。",
+      "entity_id": 7338647154434671000,
+      "entity_type": 1,
+      "entity_version": 1708681227431,
+      "favorite_count": 5,
+      "heat": 59,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/241ca4d1ee554fefa6c67fac3dc0c474~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=Oc%2BVb62G2Jqq5Exg1uJstkaBqfA%3D",
+      "id": 7338726657345323000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708681513,
+      "name": "口腔护理专家",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/15130d6580e09ac5c7635dd11f803de3~300x300.image",
+        "id": 0,
+        "name": "invi"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 60
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "能够根据抖音爆款视频生成新的文案",
+      "entity_id": 7341033085057712000,
+      "entity_type": 1,
+      "entity_version": 1709218517116,
+      "favorite_count": 3,
+      "heat": 57,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a12cb28e972443aaa6bc1ef1f4a12134~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=A8zdbVrYBAqC0Qty4gbxaA9FJnI%3D",
+      "id": 7341030768891757000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709218519,
+      "name": "抖音作品创作",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户7542306539251"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 50
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "输出目前各行业报告",
+      "entity_id": 7340184888575820000,
+      "entity_type": 1,
+      "entity_version": 1709020492689,
+      "favorite_count": 7,
+      "heat": 41,
+      "icon_url": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/7bec0de91e724d32a8080d9ad3156450~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482229&x-signature=N0B9WgPuE1VSLEsLEn5HLr3Vu3Y%3D",
+      "id": 7340179163833172000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709020815,
+      "name": "行业报告",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户8237756955346"
+      },
+      "status": 1
+    }
+  }
+][
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf6-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/820678153224011_1706624309760125536_Rfy3y7tZ7s.png?lk3s=60aae199&x-expires=1709894011&x-signature=BcTXi36xE2Z%2FuMXMU0Ji5elhX%2FQ%3D",
+          "id": 10000113,
+          "name": "微信客服",
+          "url": "https://work.weixin.qq.com/kfid/kfca2224cadcfcdd33f"
+        },
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339104792201035814"
+        }
+      ],
+      "user_count": 91
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "根据用的主题，创建一份PPT汇报大纲",
+      "entity_id": 7339104792201036000,
+      "entity_type": 1,
+      "entity_version": 1708779354329,
+      "favorite_count": 2,
+      "heat": 41,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/071292f03aad45249752c07b896a9255~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=vziPTLhlFFAaEGOZ4tyJ4YqJcv4%3D",
+      "id": 7339083311836594000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708779359,
+      "name": "PPT汇报大纲助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/mosaic-legacy/3791/5070639578~300x300.image",
+        "id": 0,
+        "name": "Enjouy_ZC"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 58
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "帮助客服获取股票公司资讯，行业报告，股市走势，做股市走势预测。",
+      "entity_id": 7339871135401787000,
+      "entity_type": 1,
+      "entity_version": 1708948124213,
+      "favorite_count": 2,
+      "heat": 40,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/5d6e43022e4f4d169f2ff22f779ec1ad~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=aXZFC9j09FJvCRVZxK2s5V0pJtA%3D",
+      "id": 7339864091286274000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708948126,
+      "name": "股票行情",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/303776d3c7ffd2f96e22a2d51939b0a3~300x300.image",
+        "id": 0,
+        "name": "litaosmile"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339673906401411110"
+        }
+      ],
+      "user_count": 59
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "一个能为你提供日常办公商务助理服务的机器人",
+      "entity_id": 7339673906401411000,
+      "entity_type": 1,
+      "entity_version": 1708905339649,
+      "favorite_count": 1,
+      "heat": 39,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/5db59ae88cfb4287b40fb672e8ae12be~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=oTMHrZdBLwyYUcB6w4CUhtcYtK8%3D",
+      "id": 7339570008802099000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708905342,
+      "name": "办公小助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/ba2de2d2faaf8ca40d356ffbbd4e5d79~300x300.image",
+        "id": 0,
+        "name": "tube"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 51
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "您的私人定制商业计划书生成器。\n能信息采集与匹配：用户仅需输入项目基本信息，系统便能根据项目特点自动填充至标准化商业计划书模板的不同部分。\n预制模板一键生成：提供多种预设模板，快速生成涵盖执行摘要、市场分析、营销策略、运营规划、财务预测等全套商业计划书内容。\n动态数据分析支持：利用AI技术分析市场状况，辅助制定精准的业务战略和财务预测。\n个性化编辑与优化：在系统自动生成的基础之上，用户可以根据实际情况灵活修改和完善计划书内容。",
+      "entity_id": 7340200486143869000,
+      "entity_type": 1,
+      "entity_version": 1709024274274,
+      "favorite_count": 6,
+      "heat": 36,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0823630cb6944ffcb728c13838aef29d~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=Xv5wz0mDQfVQmaBNVBjNL7g9w48%3D",
+      "id": 7340197764019618000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709024308,
+      "name": "一键商业计划书",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/bdf50ae1dd0c939c4d210a4edbd511d7~300x300.image",
+        "id": 0,
+        "name": "用户3483850211907"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 56
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "全网比价，在这里可以买到最高性价比的商品。在这里可以看到全品类的商品排行榜，用户可以依据商品榜单来作为购物的参考，为用户提供专业、理性的购物帮助，非常直观方便。",
+      "entity_id": 7332697925413241000,
+      "entity_type": 1,
+      "entity_version": 1708917948532,
+      "favorite_count": 5,
+      "heat": 36,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/810aa91d6eee45298c8182a84f05555c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=M%2BX%2BcM%2Bu%2FBo5IGt%2BXQpoi2decNQ%3D",
+      "id": 7339740001393115000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708917950,
+      "name": "什么值得买呢",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/04f5005841b2099490702fce9c6fb6c6~300x300.image",
+        "id": 0,
+        "name": "fuchao_pku"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7340530799856549938"
+        }
+      ],
+      "user_count": 39
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "",
+      "entity_id": 7340530799856550000,
+      "entity_type": 1,
+      "entity_version": 1709103696141,
+      "favorite_count": 0,
+      "heat": 32,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/8d66812f2ef547068a5a0520df3c3079~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=KFJIe93YYzXdG091SB2MVeyt5FQ%3D",
+      "id": 7340540011302994000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709103698,
+      "name": "房价查询",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/09fe977cfbb2f20fad6ff69f27d9c84c~300x300.image",
+        "id": 0,
+        "name": "AiJiangNan"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7332746992734683145"
+        }
+      ],
+      "user_count": 93
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "",
+      "entity_id": 7332746992734683000,
+      "entity_type": 1,
+      "entity_version": 1708946409928,
+      "favorite_count": 1,
+      "heat": 32,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/b2f2a27bb4b54be9b80401c2e7d1ff45~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=2UaVZR6swMy8T3TWl0zyGM9Fol4%3D",
+      "id": 7339849744887513000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708946412,
+      "name": "国投证券智能交易",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/c1ac3f4edd344520a2fef503dd31d3cf~300x300.image",
+        "id": 0,
+        "name": "Javarock"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 58
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "收集跨境电商最新动态/资讯，主要自动帮助收集产品/listing等相关内容",
+      "entity_id": 7339391504282157000,
+      "entity_type": 1,
+      "entity_version": 1708841490508,
+      "favorite_count": 7,
+      "heat": 31,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/5d61e2c27c8e46c6aa07af7c3d2a1cca~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=RVWIooBXg4s4O9bVCp4tvzACz%2BA%3D",
+      "id": 7339377674483171000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708841492,
+      "name": "跨境电商AI",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/7c27e4179660d22dd25fb732a8966ad3~300x300.image",
+        "id": 0,
+        "name": "用户9002386114585"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7337551949723844644"
+        }
+      ],
+      "user_count": 46
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "自动互动，自动生成内容，会画画。",
+      "entity_id": 7337551949723845000,
+      "entity_type": 1,
+      "entity_version": 1708857327498,
+      "favorite_count": 6,
+      "heat": 29,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/e140e930e35241f1bcdb2b1f055829c0~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=9JpA1Re8l7skU0A3FT%2BxsGGFg68%3D",
+      "id": 7339467011099247000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708857329,
+      "name": "AI电商",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p6-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户7449426202018"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7339945978159710271"
+        }
+      ],
+      "user_count": 39
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "在线写作，在线生成图片\n",
+      "entity_id": 7339945978159710000,
+      "entity_type": 1,
+      "entity_version": 1708966908571,
+      "favorite_count": 7,
+      "heat": 28,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0e27823848a24f0498e46993a6943888~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=TDvCGw1lszhpmcltqlPdOSTwEXc%3D",
+      "id": 7339933732058579000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708966910,
+      "name": "推文",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户2382775621005"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 116
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "e 建联",
+      "entity_id": 7333782258089722000,
+      "entity_type": 1,
+      "entity_version": 1708958448225,
+      "favorite_count": 0,
+      "heat": 28,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0d6b474bb740438089fe412f84b41031~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=M5gHNqZZFSbTsyPmW7OG%2FQO9VTk%3D",
+      "id": 7339902859204510000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708958450,
+      "name": "e 建联",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "bestony"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 62
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "搜集政治、经济、股市、大宗商品、房地产、商业等各个领域的财经新闻。",
+      "entity_id": 7338822436261052000,
+      "entity_type": 1,
+      "entity_version": 1708704551033,
+      "favorite_count": 4,
+      "heat": 26,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/cc14cf14c87840e7b06e8d9376626e22~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=eD1lQyc55cUcmxf0yBO4eA10o4I%3D",
+      "id": 7338816797602497000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708704554,
+      "name": "情报官",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户3277613902318"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7341634484900610088"
+        }
+      ],
+      "user_count": 24
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "一个可以帮助你发现赚钱机会并提供投资建议的机器人",
+      "entity_id": 7341634484900610000,
+      "entity_type": 1,
+      "entity_version": 1709361166649,
+      "favorite_count": 0,
+      "heat": 24,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/9a10d62c04de41c3a65d867ffdcd76f1~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=hGmjQ3bL%2F9TeH8fFtvsyrWfezBg%3D",
+      "id": 7341626588389360000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709361173,
+      "name": "财富密码",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "kongjun10hao"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7338012149983363099"
+        }
+      ],
+      "user_count": 23
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "专注于小红书爆款创造！",
+      "entity_id": 7338012149983363000,
+      "entity_type": 1,
+      "entity_version": 1709284138264,
+      "favorite_count": 5,
+      "heat": 23,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/f0911c3b957b437aa30ccfd822f82f25~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=7QYEoWROcckzTJ20uqh462gCgb4%3D",
+      "id": 7341312002880602000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709284140,
+      "name": "小红书爆款文案生成器",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户9931886808772"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 76
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "一个能为你提供全球财经新闻的机器人",
+      "entity_id": 7338724760643305000,
+      "entity_type": 1,
+      "entity_version": 1708681137884,
+      "favorite_count": 4,
+      "heat": 22,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/2bbee314389d4161a0c32f39dded2e8b~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=2Yab0EldyDYdB%2Faf02sAS29tWDs%3D",
+      "id": 7338727739962212000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708681147,
+      "name": "日富一日",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/f08f7ec4303c13012a7776c30dd219c1~300x300.image",
+        "id": 0,
+        "name": "Cherylwang"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 37
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "一个可以对excel表格中的企业经营数据进行数据分析的机器人",
+      "entity_id": 7340028768955793000,
+      "entity_type": 1,
+      "entity_version": 1708990630125,
+      "favorite_count": 5,
+      "heat": 21,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1f78e445750548029a90251f7e23f0e0~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=5AylvG29bOTTJkLogxLGE9NoRRQ%3D",
+      "id": 7339944391764804000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708990632,
+      "name": "数据分析机器人",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户619792861280"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 40
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "",
+      "entity_id": 7338829492581908000,
+      "entity_type": 1,
+      "entity_version": 1708706641018,
+      "favorite_count": 1,
+      "heat": 21,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/d953d614e18c4a6e8ea1cdda96bf35a2~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=tXW0QHsAYPmyl0MNAnGBEFJHCvA%3D",
+      "id": 7338833542215926000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708706643,
+      "name": "直播切片小能手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户421300140262"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [],
+      "user_count": 33
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "股票推荐",
+      "entity_id": 7339922373795381000,
+      "entity_type": 1,
+      "entity_version": 1708960339695,
+      "favorite_count": 2,
+      "heat": 20,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/73cade6b6afd42f5b58349047d72263c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=eMAd6MSqisFXZm85hAUJGrZW9Bo%3D",
+      "id": 7339924618020471000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708960342,
+      "name": "股票大师",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+        "id": 0,
+        "name": "用户3920144299933"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 1,
+      "publish_platforms": [],
+      "user_count": 29
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "     “行业风向标助手”是一款创新的工具，旨在为您提供行业趋势的洞察和指引。它就像是您在行业海洋中的指南针，帮助您把握市场动态，洞察未来发展方向。\n     这个助手利用先进的数据分析和机器学习技术，收集和分析大量的行业数据，为您提供实时、准确的信息。无论是新兴行业的崛起，还是传统行业的变革，它都能及时捕捉到关键信号，让您在竞争中占据先机。\n      通过行业风向标助手，您可以获得深入的市场研究和行业报告，了解行业的规模、增长趋势、主要参与者以及潜在的机会和挑战。它还可以提供个性化的建议和预测，根据您的业务需求和目标，为您制定战略决策提供有力支持。\n    无论您是企业决策者、投资者还是行业观察者，行业风向标助手都将成为您不可或缺的伙伴。它将帮助您紧跟行业动态，做出明智的选择，实现成功的商业决策。让行业风向标助手引领您走向行业的前沿，开创更加辉煌的未来！",
+      "entity_id": 7339464141377257000,
+      "entity_type": 1,
+      "entity_version": 1708854192547,
+      "favorite_count": 2,
+      "heat": 17,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/365db51bb1364275922357505fb730a7~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=PXdl0pf%2BmaNApDyRhfCYkrZNvr0%3D",
+      "id": 7339438175150031000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1708854197,
+      "name": "行业风向标",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/f701a18aba5d1de75528c9cd36d17213~300x300.image",
+        "id": 0,
+        "name": "DXYZ"
+      },
+      "status": 1
+    }
+  },
+  {
+    "bot_extra": {
+      "publish_mode": 2,
+      "publish_platforms": [
+        {
+          "icon_url": "https://lf26-appstore-sign.oceancloudapi.com/ocean-cloud-tos/FileBizType.BIZ_BOT_ICON/4383119973291048_1700223103089819298.jpeg?lk3s=60aae199&x-expires=1709894011&x-signature=b3V1PqhapLPVWwKm8%2BKQcBXxMRU%3D",
+          "id": 482431,
+          "name": "豆包",
+          "url": "https://www.doubao.com/share?botId=7341310983329054758"
+        }
+      ],
+      "user_count": 16
+    },
+    "meta_info": {
+      "category": {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": 7331636528340451000,
+        "index": 0,
+        "name": "商业助手"
+      },
+      "description": "",
+      "entity_id": 7341310983329055000,
+      "entity_type": 1,
+      "entity_version": 1709859635458,
+      "favorite_count": 7,
+      "heat": 16,
+      "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/0c007e284ec44d168ae52f5f34512bd0~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1712482411&x-signature=%2F0eZbicmNSHMuKbbO0Mu2AgVVTg%3D",
+      "id": 7341308384945258000,
+      "is_favorited": false,
+      "is_free": true,
+      "listed_at": 1709859638,
+      "name": "采购助手",
+      "readme": "",
+      "seller": {
+        "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/548363712eef90cfdd65a2c61951a147~300x300.image",
+        "id": 0,
+        "name": "ruoyuchow"
+      },
+      "status": 1
+    }
+  }
+]

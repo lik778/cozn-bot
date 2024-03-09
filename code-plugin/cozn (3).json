@@ -1,0 +1,2133 @@
+{
+  "code": 0,
+  "data": {
+    "has_more": false,
+    "products": [
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "github apis",
+          "entity_id": "7340215693666975744",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 42,
+          "heat": 1245,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/ebcd6fcf973a493784ee1c99b143aa41~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=81dUUQAmn%2F%2FhD2ZA617CYzdF8a8%3D",
+          "id": "7340221789018226751",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709034905",
+          "name": "github",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"github apis.\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"可通过该插件获取github的仓库信息和用户信息。Provided by：\"},{\"insert\":\"https://www.silenceboy.com/\",\"attributes\":{\"clientside-auto-url\":\"https://www.silenceboy.com/\"}},{\"insert\":\"\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/29331f60afffeb9fc0995626b5309937~300x300.image",
+            "id": "0",
+            "name": "morty"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 1203,
+          "tools": [
+            {
+              "description": "搜索用户",
+              "id": "7340226209214775332",
+              "name": "searchUsers",
+              "parameters": [
+                {
+                  "description": "关键字",
+                  "name": "q",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "搜索github上的仓库",
+              "id": "7340216947423952950",
+              "name": "searchRepositories",
+              "parameters": [
+                {
+                  "description": "该查询包含一个或多个搜索关键字和限定符。限定符允许您将搜索限制在 GitHub 的特定区域。如：keywords+language:js",
+                  "name": "q",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "确定返回的第一个搜索结果是最大匹配数 (desc) 还是最小匹配数 (asc)。默认：desc",
+                  "name": "order",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "排序方式，默认: stars, 还可以选择其他项: forks, help-wanted-issues, updated",
+                  "name": "sort",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "每页查询数量，默认30",
+                  "name": "per_page",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "页数，默认1",
+                  "name": "page",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 2
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714797605",
+            "index": 0,
+            "name": "网页搜索"
+          },
+          "description": "百度搜索搜索结果（python学霸公众号）",
+          "entity_id": "7340960876062703657",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 21,
+          "heat": 1238,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/307956767da14ea6aa1ea14fb3fc3c74~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=Fg7Uam2eR5DzradOJWnHLRKhH%2Bs%3D",
+          "id": "7340957533261283367",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709205004",
+          "name": "百度搜索",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"只需输入关键词即可获得百度搜索搜索结果\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：仅供学习，若侵权删除\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/278aae0e826745661250772033c90cc6~300x300.image",
+            "id": "0",
+            "name": "python学霸"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 1217,
+          "tools": [
+            {
+              "description": "获取百度搜索搜索结果",
+              "id": "7340961090039283749",
+              "name": "baidu_sou",
+              "parameters": [
+                {
+                  "description": "关键词",
+                  "name": "keyword",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714748453",
+            "index": 0,
+            "name": "照片与摄影"
+          },
+          "description": "包含一些cs2的图片库",
+          "entity_id": "7338700015021522981",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 13,
+          "heat": 1194,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/14583696e44e422caf48193d4199237c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=pdnSZAJsPNvSp9cEm331EUzDV6w%3D",
+          "id": "7338691381957001250",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1708674488",
+          "name": "cs2图片库",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"cs2图片库。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"解释如何在 Bot 中使用工具。你可以举一些例子来解释：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"1.用例1：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"2.用例2：这个案例的详细说明。例如，一些建议的提示和他们将收到的答案。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+            "id": "0",
+            "name": "用户iQSdUj"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 1181,
+          "tools": [
+            {
+              "description": "包含cs2的一些图片库",
+              "id": "7338700430123204646",
+              "name": "cs2_pics",
+              "parameters": []
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "用来处理需要准确数据计算的场景",
+          "entity_id": "7338709153852129332",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 17,
+          "heat": 1185,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/c85555679b6c4147882c102ea3342c6a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=7wikq7%2F8zvX%2F%2B7sg4gXZxNirbDs%3D",
+          "id": "7338716182272311296",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1708690728",
+          "name": "计算器",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"如果你需要处理准确计算场景，可以使用这个插件。\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"有任何问题，请通过邮箱 \"},{\"attributes\":{\"removeLink\":\"true\"},\"insert\":\"hewas704@gmail.com\"},{\"insert\":\" 联系我。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p9-passport.byteacctimg.com/img/user-avatar/fc84238205e652619affcc9b57df8f91~300x300.image",
+            "id": "0",
+            "name": "scq"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 1168,
+          "tools": [
+            {
+              "description": "使用表达式来获得答案，比如2+2*200, 这个插件会返回正确答案402",
+              "id": "7338709383590936617",
+              "name": "Math",
+              "parameters": [
+                {
+                  "description": "表达式字符串",
+                  "name": "expr",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "精确度，默认为空",
+                  "name": "precision",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "number"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714846757",
+            "index": 0,
+            "name": "游戏与娱乐"
+          },
+          "description": "提供根据积分进行所有玩家排名的功能，可以同时建立多个榜单，对不同类型的积分进行排名。积分可以实时更新写榜，排行榜结果自动排名。",
+          "entity_id": "7312638848524156954",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 11,
+          "heat": 996,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/3868ccea151846d1a929d632bf09c2f4~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=Jc0Q9xBUln54e956tMRru6WvhsU%3D",
+          "id": "7329360772541382682",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709538659",
+          "name": "游戏积分排行榜",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"提供根据积分进行所有玩家排名的功能，可以同时建立多个榜单，对不同类型的积分进行排名。积分可以实时更新写榜，排行榜结果自动排名。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-passport.byteacctimg.com/img/mosaic-legacy/3793/3131589739~300x300.image",
+            "id": "0",
+            "name": "lyc0510"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 985,
+          "tools": [
+            {
+              "description": "添加排名配置。",
+              "id": "7312640543148818441",
+              "name": "AddRankConfig",
+              "parameters": [
+                {
+                  "description": "骰子游戏的名称",
+                  "name": "rank_name",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "数据更新模式, coverage: 1, cumulative: 2",
+                  "name": "rank_write_mode",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                }
+              ]
+            },
+            {
+              "description": "编写排名。",
+              "id": "7312640543643795494",
+              "name": "WriteRank",
+              "parameters": [
+                {
+                  "description": "额外数据",
+                  "name": "extra_data",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "骰子游戏的名称",
+                  "name": "rank_name",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "骰子游戏的分数记录",
+                  "name": "score",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "用户唯一id",
+                  "name": "unique_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "获取排名信息。",
+              "id": "7312640061474996274",
+              "name": "GetRankInfo",
+              "parameters": [
+                {
+                  "description": "这个基础分数将会加上返回的分数。",
+                  "name": "base_score",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "骰子游戏的名称",
+                  "name": "rank_name",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "游戏结束。",
+              "id": "7312754879968264242",
+              "name": "GameEnd",
+              "parameters": [
+                {
+                  "description": "游戏基础分数",
+                  "name": "base_score",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "骰子游戏的名称",
+                  "name": "rank_name",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 4
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714732069",
+            "index": 0,
+            "name": "新闻阅读"
+          },
+          "description": "热榜数据获取（文章榜\u0026作者榜）",
+          "entity_id": "7339880377953173555",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 20,
+          "heat": 776,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/bd1c2f023068424cb437380b74919b57~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=Uus12NFflIWxGtGKurldcA8kPDM%3D",
+          "id": "7339911031063560231",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1708959402",
+          "name": "掘金热榜",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"掘金热榜数据获取 \"},{\"insert\":\"https://juejin.cn/hot/articles\",\"attributes\":{\"clientside-auto-url\":\"https://juejin.cn/hot/articles\"}},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"直接使用 关键词 \\\"掘金热榜\\\" 激活，可以通过自然语言描述修改参数。\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"文章榜：默认取综合热榜数据\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"作者榜：默认取前端作者榜单\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"其它类型的榜单：访问 \"},{\"insert\":\"https://juejin.cn/hot/articles\",\"attributes\":{\"clientside-auto-url\":\"https://juejin.cn/hot/articles\"}},{\"insert\":\" 使用 devTools 工具查看对应接口参数获取\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"完善参数映射表：智能生成查询参数\\n\"},{\"insert\":\"\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/f13a2135bbb613af5f9fc787a59db880~300x300.image",
+            "id": "0",
+            "name": "粥里有勺糖"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 756,
+          "tools": [
+            {
+              "description": "优质作者榜",
+              "id": "7339919704531976233",
+              "name": "user_rank",
+              "parameters": [
+                {
+                  "description": "类型（默认 1）",
+                  "name": "item_rank_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "number"
+                },
+                {
+                  "description": "子类型（默认前端 6809637767543259144）",
+                  "name": "item_sub_rank_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "掘金文章榜\u0026文章收藏榜",
+              "id": "7339917253590335522",
+              "name": "article_rank",
+              "parameters": [
+                {
+                  "description": "分类（默认综合：1）",
+                  "name": "category_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "类别（热榜:hot,收藏榜: collect）",
+                  "name": "type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 2
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "谷歌翻译助手",
+          "entity_id": "7340989780584398886",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 24,
+          "heat": 681,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/eb7e91d6b202492dbb15d2a4b22faff1~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=iRHByEHs2R0fnEaTfKkSzjjW3V4%3D",
+          "id": "7340990837028995135",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709208594",
+          "name": "谷歌翻译助手",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：谷歌翻译助手\\n\"},{\"insert\":\"部分支持语言列表：支持大概108种语言互译\\n\"},{\"insert\":\"隐私政策/使用协议：仅供学习\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/278aae0e826745661250772033c90cc6~300x300.image",
+            "id": "0",
+            "name": "python学霸"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 657,
+          "tools": [
+            {
+              "description": "谷歌翻译助手",
+              "id": "7340989903762882579",
+              "name": "google_translate",
+              "parameters": [
+                {
+                  "description": "文本",
+                  "name": "text",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "源语言",
+                  "name": "from_lang",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "目标语言",
+                  "name": "to_lang",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714781221",
+            "index": 0,
+            "name": "便利生活"
+          },
+          "description": "获取POI相关信息",
+          "entity_id": "7340165450426433536",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 17,
+          "heat": 642,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/8e149a53cf19448084e4440e9007fab3~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=2k1GKiJxAdQ7iNMOkC1GfZ7n0Bo%3D",
+          "id": "7340234524200271887",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709011154",
+          "name": "百度地图",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"通过百度地图获取 POI 的相关信息。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"1.用例1：帮我查一下天安门附近的银行。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"如果适用，请讨论为您的插件计划的任何未来更新或改进。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：请在此输入协议链接\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/assets/e7b19241fb224cea967dfaea35448102_1080_1080.png~300x300.image",
+            "id": "0",
+            "name": "用户G2Jm59"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 625,
+          "tools": [
+            {
+              "description": "根据POI地点名称，获得POI地点对应的经纬度坐标信息",
+              "id": "7340181680894017555",
+              "name": "getLocationCoordinate",
+              "parameters": [
+                {
+                  "description": "POI名称，最多支持84个字节，可以输入两种样式的值（标准的结构化地址信息，如北京市海淀区上地十街十号；支持“*路与*路交叉口”描述方式，如北一环路和阜阳路的交叉路口）",
+                  "name": "address",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "地址所在的城市名。用于指定上述地址所在的城市",
+                  "name": "city",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "搜索给定坐标附近的POI信息",
+              "id": "7340186991037808652",
+              "name": "searchNearbyPoi",
+              "parameters": [
+                {
+                  "description": "目标POI的关键字，支持多个关键词，不同关键字间以$符号分隔，最多支持10个关键字检索",
+                  "name": "query",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "中心点的纬度值,经度值，纬度值在前经度值在后，用半角逗号分隔，lat\u003c纬度值\u003e,lng\u003c经度值\u003e，纬度值取值范围在-90~90，经度值取值范围-180~180，如：39.960247,116.328886",
+                  "name": "location",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "单次召回POI数量，默认为10条记录，最大返回20条",
+                  "name": "page_size",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 2
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "根据填充词和标题生成词云，并获得词云图片链接",
+          "entity_id": "7333066795550769178",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 17,
+          "heat": 634,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/d14bb606315b445c9676e7c62ef4de5c~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=zGREfEtr84RrF3aIOzhX4S%2Bkpgo%3D",
+          "id": "7338704843613438003",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1708907336",
+          "name": "wordcloud",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"根据填充词和标题生成词云，并获得词云图片链接。目前支持新年、情人节、通用主题。使用@visactor/vchart绘制形状词云。根据主题随机选取模板生成词云。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"generate_valentine_wordcloud: 生成情人节主题的词云。\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"参数：fillingWords: 词云填充词字符串，将不同词语使用逗号连接；title：词云标题\\n\"},{\"insert\":\"示例：generate_valentine_wordcloud(\\\"百年好合，白头偕老\\\", \\\"情人节快乐\\\")\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"generate_new_year_wordcloud: 生成拜年主题的词云。\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"参数：fillingWords: 词云填充词字符串，将不同词语使用逗号连接；title：词云标题\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"示例：generate_new_year_wordcloud(\\\"恭喜发财，大吉大利，百年好合\\\", \\\"给您拜年了！\\\")\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"generate_common_wordcloud: 生成通用主题的词云。\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"参数：fillingWords: 词云填充词字符串，将不同词语使用逗号连接；title：词云标题\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"示例：\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"generate_common_wordcloud(\\\"填充词1, 填充词2, 填充词3\\\", \\\"词云示例\\\")\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"未来将添加更多主题模板\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/mosaic-legacy/3796/2975850990~300x300.image",
+            "id": "0",
+            "name": "Darkside"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 617,
+          "tools": [
+            {
+              "description": "根据祝福语和标题，生成无主题的词云并获得图片链接",
+              "id": "7337594758040223756",
+              "name": "generate_common_wordcloud",
+              "parameters": [
+                {
+                  "description": "词云标题（可选）",
+                  "name": "title",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用于词云填充词的祝福短语，以逗号连接成字符串",
+                  "name": "fillingWords",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "根据情人节祝福语和标题，生成情人节词云并获得图片链接",
+              "id": "7337593919590514751",
+              "name": "generate_valentine_wordcloud",
+              "parameters": [
+                {
+                  "description": "情人节词云标题（可选）",
+                  "name": "title",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用于词云填充词的情人节祝福短语，以逗号连接成字符串",
+                  "name": "fillingWords",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "根据拜年祝福语和标题，生成拜年词云并获得图片链接",
+              "id": "7333067102099701810",
+              "name": "generate_new_year_wordcloud",
+              "parameters": [
+                {
+                  "description": "用于词云填充词的拜年祝福短语，以逗号连接成字符串",
+                  "name": "fillingWords",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "拜年标题（可选）",
+                  "name": "title",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 3
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714748453",
+            "index": 0,
+            "name": "照片与摄影"
+          },
+          "description": "根据关键词查询图片（python学霸）",
+          "entity_id": "7340982155537039386",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 6,
+          "heat": 511,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/a7103968594c4fcdb95622a975d3c7c7~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=daFRN3prL9gY476Tf71QD9QKQ3o%3D",
+          "id": "7340975067179778084",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709205882",
+          "name": "图片搜索",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：输入关键词即可获取相关图片链接\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：仅供学习，若侵权下架\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/278aae0e826745661250772033c90cc6~300x300.image",
+            "id": "0",
+            "name": "python学霸"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 505,
+          "tools": [
+            {
+              "description": "图片搜索工具",
+              "id": "7340982281881780234",
+              "name": "image_search",
+              "parameters": [
+                {
+                  "description": "页数，可空",
+                  "name": "page_num",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "关键词",
+                  "name": "keyword",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "飞书开放平台所有的API，包括飞书消息、飞书日历、飞书任务、飞书文档等API",
+          "entity_id": "7339792495506898982",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 31,
+          "heat": 435,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/7040a05eeaa540f0ae1146354378c27e~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=NKF44%2FgkBxD8%2B8E3kRYbGlGn1RU%3D",
+          "id": "7340567350678388763",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709871882",
+          "name": "飞书OpenAPI",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"飞书开放平台OpenAPI，目前已更新消息发送、任务管理、日程管理、会议室查询等API；\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"1. 由于飞书开放平台API都需要Token认证，所以所有接口的token为必传项，目前只建议使用tenant_access_token的API接口；\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"2. 推荐的用法是将插件包装在工作流当中，同时在变量中配置APP_ID和APP_SECRET，然后在工作流里使用code节点或get_tenant_access_token API拿到tenant_access_token，然后传给其他API插件使用；\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"1. 持续更新中，下一步支持文档和多维表格相关API\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/mosaic-legacy/3791/5035712059~300x300.image",
+            "id": "0",
+            "name": "NapsterLong"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 404,
+          "tools": [
+            {
+              "description": "查询主日历日程忙闲信息",
+              "id": "7340173851965390886",
+              "name": "query_freebusy_list",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "是否包含绑定的三方日历中的日程，不传默认为true，即包含。",
+                  "name": "include_external_calendar",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "boolean"
+                },
+                {
+                  "description": "是否包含标记为空闲的日程，不传默认为true，即不包含。",
+                  "name": "only_busy",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "boolean"
+                },
+                {
+                  "description": "会议室room_id",
+                  "name": "room_id",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "查询时段结束时间，需要url编码",
+                  "name": "time_max",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "查询时段开始时间，需要url编码",
+                  "name": "time_min",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用户user_id",
+                  "name": "user_id",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "查询飞书日程",
+              "id": "7340210364396748810",
+              "name": "query_calendar_event",
+              "parameters": [
+                {
+                  "description": "日程ID",
+                  "name": "event_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日历ID",
+                  "name": "calendar_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "获取应用的认证token",
+              "id": "7340580934678249523",
+              "name": "get_tenant_access_token",
+              "parameters": [
+                {
+                  "description": "应用唯一标识",
+                  "name": "app_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "应用秘钥",
+                  "name": "app_secret",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "更新飞书日程",
+              "id": "7340213355833180169",
+              "name": "update_calendar_event",
+              "parameters": [
+                {
+                  "description": "日历ID",
+                  "name": "calendar_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日程ID",
+                  "name": "event_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用户 ID 类型",
+                  "name": "user_id_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日程结束时间",
+                  "name": "end_time",
+                  "required": false,
+                  "sub_params": [
+                    {
+                      "description": "仅全天日程使用该字段，如2018-09-01",
+                      "name": "date",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "秒级时间戳，如1602504000",
+                      "name": "timestamp",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "时区名称",
+                      "name": "timezone",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    }
+                  ],
+                  "type": "object"
+                },
+                {
+                  "description": "更新日程是否给日程参与人发送bot通知，默认为true",
+                  "name": "need_notification",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "boolean"
+                },
+                {
+                  "description": "日程开始时间",
+                  "name": "start_time",
+                  "required": false,
+                  "sub_params": [
+                    {
+                      "description": "时区名称",
+                      "name": "timezone",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "仅全天日程使用该字段，如2018-09-01",
+                      "name": "date",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "秒级时间戳，如1602504000",
+                      "name": "timestamp",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    }
+                  ],
+                  "type": "object"
+                },
+                {
+                  "description": "日程标题",
+                  "name": "summary",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日程描述",
+                  "name": "description",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "搜索会议室\n",
+              "id": "7343842188649889811",
+              "name": "search_rooms",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用户 ID 类型",
+                  "name": "user_id_type",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "分页标记，第一次请求不填，表示从头开始遍历；分页查询结果还有更多项时会同时返回新的 page_token，下次遍历可采用该 page_token 获取查询结果",
+                  "name": "page_token",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "在该会议室层级下进行搜索（当custom_room_ids为空时，使用该字段进行查询）",
+                  "name": "room_level_id",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "搜索会议室是否包括层级名称（当custom_room_ids为空时，使用该字段进行查询）",
+                  "name": "search_level_name",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "boolean"
+                },
+                {
+                  "description": "用于查询指定会议室的租户自定义会议室ID列表，优先使用该字段进行查询",
+                  "name": "custom_room_ids",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "array"
+                },
+                {
+                  "description": "会议室搜索关键词（当custom_room_ids为空时，使用该字段进行查询）",
+                  "name": "keyword",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "分页大小，该值默认为10，最大为100（当custom_room_ids为空时，使用该字段进行查询）",
+                  "name": "page_size",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                }
+              ]
+            },
+            {
+              "description": "批量查询会议室层级详情",
+              "id": "7343835100070838284",
+              "name": "query_rool_levels_info",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "层级ID列表",
+                  "name": "level_ids",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "array"
+                }
+              ]
+            },
+            {
+              "description": "批量查询主日历日程忙闲信息\n",
+              "id": "7343446916560306230",
+              "name": "query_freebusy_batch",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "查询时段结束时间，需要url编码",
+                  "name": "time_max",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "查询时段开始时间，需要url编码",
+                  "name": "time_min",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用户ID列表",
+                  "name": "user_ids",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "array"
+                },
+                {
+                  "description": "是否包含用户绑定的三方日历中的日程忙闲，不传默认为true，即包含。",
+                  "name": "include_external_calendar",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "boolean"
+                },
+                {
+                  "description": "是否包含标记为空闲的日程，不传默认为true，即不包含空闲日程。",
+                  "name": "only_busy",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "boolean"
+                }
+              ]
+            },
+            {
+              "description": "查询会议室列表\n",
+              "id": "7343837757241982995",
+              "name": "query_rooms",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "层级ID，当需要获取租户下会议室列表时，room_level_id可传空",
+                  "name": "room_level_id",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "分页大小  示例值：10  数据校验规则：  最大值：100",
+                  "name": "page_size",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "分页标记，第一次请求不填，表示从头开始遍历；分页查询结果还有更多项时会同时返回新的 page_token，下次遍历可采用该 page_token 获取查询结果 ",
+                  "name": "page_token",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "\t 用户 ID 类型",
+                  "name": "user_id_type",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "添加日程参与人",
+              "id": "7340208077616054310",
+              "name": "add_calendar_event_attendees",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日历ID",
+                  "name": "calendar_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "event_id",
+                  "name": "event_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用户 ID 类型",
+                  "name": "user_id_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "新增参与人列表",
+                  "name": "attendees",
+                  "required": false,
+                  "sub_params": [
+                    {
+                      "description": "参与人类型",
+                      "name": "type",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "参与人的用户id",
+                      "name": "user_id",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    }
+                  ],
+                  "type": "array"
+                }
+              ]
+            },
+            {
+              "description": "通过手机号或邮箱获取用户 ID",
+              "id": "7340189295036088330",
+              "name": "get_user_id",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用户 ID 类型",
+                  "name": "user_id_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "要查询的用户邮箱列表",
+                  "name": "emails",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "array"
+                },
+                {
+                  "description": "查询结果是否包含离职员工。取值为 true 后可查询离职用户的 ID",
+                  "name": "include_resigned",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "boolean"
+                },
+                {
+                  "description": "要查询的用户邮手机列表",
+                  "name": "mobiles",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "array"
+                }
+              ]
+            },
+            {
+              "description": "更新飞书任务",
+              "id": "7339821296836018203",
+              "name": "task_update",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "要更新的任务全局唯一ID",
+                  "name": "task_guid",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "要更新的任务数据",
+                  "name": "task",
+                  "required": false,
+                  "sub_params": [
+                    {
+                      "description": "任务描述",
+                      "name": "description",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "任务截止时间",
+                      "name": "due",
+                      "required": false,
+                      "sub_params": [
+                        {
+                          "description": "是否截止到一个日期",
+                          "name": "is_all_day",
+                          "required": false,
+                          "sub_params": [],
+                          "type": "boolean"
+                        },
+                        {
+                          "description": "截止时间/日期的时间戳",
+                          "name": "timestamp",
+                          "required": false,
+                          "sub_params": [],
+                          "type": "string"
+                        }
+                      ],
+                      "type": "object"
+                    },
+                    {
+                      "description": "任务标题",
+                      "name": "summary",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "任务的完成时刻时间戳(ms)",
+                      "name": "completed_at",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    }
+                  ],
+                  "type": "object"
+                },
+                {
+                  "description": "设置需要修改的字段列表",
+                  "name": "update_fields",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "array"
+                }
+              ]
+            },
+            {
+              "description": "查询会议室层级列表\n",
+              "id": "7343836659537952780",
+              "name": "query_room_levels",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "层级ID，当需要获取租户下层级列表时，room_level_id可传空",
+                  "name": "room_level_id",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "分页尺寸大小，最大值：100",
+                  "name": "page_size",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "分页标记，第一次请求不填，表示从头开始遍历；分页查询结果还有更多项时会同时返回新的 page_token，下次遍历可采用该 page_token 获取查询结果",
+                  "name": "page_token",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "创建飞书日程",
+              "id": "7340179735307124773",
+              "name": "create_calendar_event",
+              "parameters": [
+                {
+                  "description": "日历ID",
+                  "name": "calendar_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用户 ID 类型",
+                  "name": "user_id_type",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日程开始时间",
+                  "name": "start_time",
+                  "required": false,
+                  "sub_params": [
+                    {
+                      "description": "时区名称",
+                      "name": "timezone",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "仅全天日程使用该字段，如2018-09-01",
+                      "name": "date",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "秒级时间戳，如1602504000",
+                      "name": "timestamp",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    }
+                  ],
+                  "type": "object"
+                },
+                {
+                  "description": "日程标题",
+                  "name": "summary",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "参与人权限",
+                  "name": "attendee_ability",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日程描述",
+                  "name": "description",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日程结束时间",
+                  "name": "end_time",
+                  "required": false,
+                  "sub_params": [
+                    {
+                      "description": "秒级时间戳，如1602504000",
+                      "name": "timestamp",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "时区名称",
+                      "name": "timezone",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "仅全天日程使用该字段，如2018-09-01",
+                      "name": "date",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    }
+                  ],
+                  "type": "object"
+                },
+                {
+                  "description": "更新日程是否给日程参与人发送bot通知，默认为true",
+                  "name": "need_notification",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "boolean"
+                }
+              ]
+            },
+            {
+              "description": "创建飞书任务",
+              "id": "7339813060799954953",
+              "name": "task_create",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": " 任务成员列表，包括负责人和关注人",
+                  "name": "members",
+                  "required": false,
+                  "sub_params": [
+                    {
+                      "description": "表示member的id",
+                      "name": "id",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "成员角色，可以是\"assignee\"或者\"follower\"。",
+                      "name": "role",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    },
+                    {
+                      "description": "成员的类型，可以是user或者app。",
+                      "name": "type",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    }
+                  ],
+                  "type": "array"
+                },
+                {
+                  "description": "任务标题",
+                  "name": "summary",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "任务的完成时刻时间戳(ms)。不填写或者设为0表示创建一个未完成任务；填写一个具体的时间戳表示创建一个已完成任务。",
+                  "name": "completed_at",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "任务摘要",
+                  "name": "description",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "任务截止时间",
+                  "name": "due",
+                  "required": false,
+                  "sub_params": [
+                    {
+                      "description": "是否截止到一个日期",
+                      "name": "is_all_day",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "boolean"
+                    },
+                    {
+                      "description": "截止时间/日期的时间戳",
+                      "name": "timestamp",
+                      "required": false,
+                      "sub_params": [],
+                      "type": "string"
+                    }
+                  ],
+                  "type": "object"
+                }
+              ]
+            },
+            {
+              "description": "查询日历列表",
+              "id": "7340171578979729417",
+              "name": "query_calendars",
+              "parameters": [
+                {
+                  "description": "认证token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "创建共享日历",
+              "id": "7340172206866956314",
+              "name": "create_calendar",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日历艳娥",
+                  "name": "color",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "日历描述",
+                  "name": "description",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日历公开范围",
+                  "name": "permissions",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日历标题",
+                  "name": "summary",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日历备注名",
+                  "name": "summary_alias",
+                  "required": false,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "获取飞书任务详情",
+              "id": "7339817881091260454",
+              "name": "task_info",
+              "parameters": [
+                {
+                  "description": "要获取的任务guid",
+                  "name": "task_guid",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "发送飞书应用内加急消息",
+              "id": "7339802602089185306",
+              "name": "send_urgent_app_message",
+              "parameters": [
+                {
+                  "description": "用户 ID 类型",
+                  "name": "user_id_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "待加急的消息ID",
+                  "name": "message_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "目标用户的ID列表",
+                  "name": "user_id_list",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "array"
+                }
+              ]
+            },
+            {
+              "description": "发送普通的飞书文本消息",
+              "id": "7339795569176772635",
+              "name": "send_message",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "接收者类型",
+                  "name": "receive_id_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "发送内容",
+                  "name": "content",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "消息类型",
+                  "name": "msg_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "接收者ID",
+                  "name": "receive_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "删除飞书日程",
+              "id": "7340557733680332809",
+              "name": "delete_calendar_event",
+              "parameters": [
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日历ID",
+                  "name": "calendar_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "日程ID",
+                  "name": "event_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "删除飞书任务",
+              "id": "7340558991040348197",
+              "name": "task_delete",
+              "parameters": [
+                {
+                  "description": "要删除的任务guid",
+                  "name": "task_guid",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "description": "发送飞书电话加急消息",
+              "id": "7339809584267149350",
+              "name": "send_urgent_phone_message",
+              "parameters": [
+                {
+                  "description": "待加急的消息ID",
+                  "name": "message_id",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "用户 ID 类型",
+                  "name": "user_id_type",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "认证Token",
+                  "name": "Authorization",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                },
+                {
+                  "description": "目标用户的ID列表",
+                  "name": "user_id_list",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "array"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 22
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714797605",
+            "index": 0,
+            "name": "网页搜索"
+          },
+          "description": "搜索搜索搜索结果",
+          "entity_id": "7340949847966580788",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 5,
+          "heat": 405,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/880a2ea379ac44a6bd45bc36476a17c3~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=31tC5LflCiI6FT7yFtTt0k5YU5U%3D",
+          "id": "7340949238458646567",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709198415",
+          "name": "搜狗搜索",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"搜狗搜索搜索结果\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"输入关键词即可\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：仅供学习，若侵权删除\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/278aae0e826745661250772033c90cc6~300x300.image",
+            "id": "0",
+            "name": "python学霸"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 400,
+          "tools": [
+            {
+              "description": "搜狗搜索搜索结果",
+              "id": "7340950039541481499",
+              "name": "sougou",
+              "parameters": [
+                {
+                  "description": "关键词",
+                  "name": "keyword",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "通过接口获取当前北京时间",
+          "entity_id": "7331296488854929462",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 9,
+          "heat": 397,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/77196506eb9543fca3eecaa7fa338ae0~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=UQ3JYbyWZVvzkWYOSwkbv0EjY%2Bw%3D",
+          "id": "7338726870541811724",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1708682399",
+          "name": "当前北京时间",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"描述：\\n\"},{\"insert\":\"获取当前北京时间\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"用法：\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"直接调用即可~\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"insert\":\"更新和未来计划：\\n\"},{\"insert\":\"该插件仅提供个简单demo获取时间，借用了苏宁易购的接口实现。\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"隐私政策/使用协议：最终解释归苏宁易购所有\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/e77c657fbeb7485382ede44d7baa5360~300x300.image",
+            "id": "0",
+            "name": "MetaImagine"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 388,
+          "tools": [
+            {
+              "description": "通过苏宁易购接口获取当前北京时间戳",
+              "id": "7331296931085336630",
+              "name": "getBeijingTimestamp",
+              "parameters": []
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "通过调用接口随机返回一首古诗词",
+          "entity_id": "7340254693152587812",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 8,
+          "heat": 394,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1f04ffe8cfe74222b4950e020a985bfe~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=QME%2BNVFUZYPUYEi40GuEQP0yghI%3D",
+          "id": "7340244586096328743",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709036731",
+          "name": "今日诗词",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"可通过该插件随机获取一首诗词。返回格式如下：\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"```\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"{\\n\"},{\"insert\":\"    \\\"status\\\": \\\"success\\\",\\n\"},{\"insert\":\"    \\\"data\\\": {\\n\"},{\"insert\":\"        \\\"id\\\": \\\"5b8b9572e116fb3714e72d1a\\\",\\n\"},{\"insert\":\"        \\\"content\\\": \\\"与余同是识翁人，惟有西湖波底月。\\\",\\n\"},{\"insert\":\"        \\\"popularity\\\": 178000,\\n\"},{\"insert\":\"        \\\"origin\\\": {\\n\"},{\"insert\":\"            \\\"title\\\": \\\"木兰花令·次欧公西湖韵\\\",\\n\"},{\"insert\":\"            \\\"dynasty\\\": \\\"宋代\\\",\\n\"},{\"insert\":\"            \\\"author\\\": \\\"苏轼\\\",\\n\"},{\"insert\":\"            \\\"content\\\": [\\n\"},{\"insert\":\"                \\\"霜余已失长淮阔。空听潺潺清颍咽。佳人犹唱醉翁词，四十三年如电抹。\\\",\\n\"},{\"insert\":\"                \\\"草头秋露流珠滑。三五盈盈还二八。与余同是识翁人，惟有西湖波底月。\\\"\\n\"},{\"insert\":\"            ],\\n\"},{\"insert\":\"            \\\"translate\\\": null\\n\"},{\"insert\":\"        },\\n\"},{\"insert\":\"        \\\"matchTags\\\": [\\n\"},{\"insert\":\"            \\\"华东\\\",\\n\"},{\"insert\":\"            \\\"西湖\\\",\\n\"},{\"insert\":\"            \\\"晚上\\\"\\n\"},{\"insert\":\"        ],\\n\"},{\"insert\":\"        \\\"recommendedReason\\\": \\\"\\\",\\n\"},{\"insert\":\"        \\\"cacheAt\\\": \\\"2024-02-27T20:20:43.015182307\\\"\\n\"},{\"insert\":\"    },\\n\"},{\"insert\":\"    \\\"token\\\": \\\"LosdaGdl/6ZuaX2u3cs2mPCBOyL1NQxS\\\",\\n\"},{\"insert\":\"    \\\"ipAddress\\\": \\\"\"},{\"insert\":\"115.233.196.50\",\"attributes\":{\"clientside-auto-url\":\"http://115.233.196.50\"}},{\"insert\":\"\\\",\\n\"},{\"insert\":\"    \\\"warning\\\": null\\n\"},{\"insert\":\"}\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"```\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"Provided by：\"},{\"insert\":\"https://www.silenceboy.com/\",\"attributes\":{\"clientside-auto-url\":\"https://www.silenceboy.com/\"}},{\"insert\":\"\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p3-passport.byteacctimg.com/img/user-avatar/29331f60afffeb9fc0995626b5309937~300x300.image",
+            "id": "0",
+            "name": "morty"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 386,
+          "tools": [
+            {
+              "description": "每次调用都能够自动获取一首诗词。",
+              "id": "7340255333610192905",
+              "name": "poetry_generation",
+              "parameters": []
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "description": "使用这个插件可以去淘票票网站搜索正在上映的/即将上映的影片、演出，注意：无法搜索过去的已下映的影片。",
+          "entity_id": "7330566548605730867",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 7,
+          "heat": 212,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/431be11ed635431785cf1570bc4dcb35~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=a4kwPHJ1uys7TzSjcqNTbz6bLtI%3D",
+          "id": "7340117002398285843",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709091527",
+          "name": "淘票票",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"使用这个插件可以去淘票票网站搜索正在上映的/即将上映的影片、演出，注意：无法搜索过去的已下映的影片。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472895\u0026x-signature=KBMPMJfASqcmxViwlbq2Zw2TMv4%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 205,
+          "tools": [
+            {
+              "description": "获取正在上映/即将上映的影片/演出，注意：无法搜索过去的、已下映的影片。",
+              "id": "7330566548605747251",
+              "name": "GetMovieAndShow",
+              "parameters": [
+                {
+                  "description": "页码，默认从0开始",
+                  "name": "pageIndex",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "integer"
+                },
+                {
+                  "description": "页大小，只支持1~30，默认输入10",
+                  "name": "pageSize",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "integer"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "category": {
+            "active_icon_url": "",
+            "icon_url": "",
+            "id": "7327137275714764837",
+            "index": 0,
+            "name": "实用工具"
+          },
+          "description": "图像识别文字",
+          "entity_id": "7338636004191977499",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 15,
+          "heat": 71,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/21483ede5b844f7c9428fb9e3d3225de~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=nZxhYHaIIumq9DgHu4gfzbLX9Ng%3D",
+          "id": "7342856270615052327",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709729362",
+          "name": "OCR",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"图像识别文字\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472895\u0026x-signature=KBMPMJfASqcmxViwlbq2Zw2TMv4%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 56,
+          "tools": [
+            {
+              "description": "图片转文字",
+              "id": "7338636374502899738",
+              "name": "Image2text",
+              "parameters": [
+                {
+                  "description": "图片的url地址",
+                  "name": "url",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      },
+      {
+        "meta_info": {
+          "description": "自动分析音频URL，并将音频转录为文本。",
+          "entity_id": "7340161646935130153",
+          "entity_type": 2,
+          "entity_version": "0",
+          "favorite_count": 2,
+          "heat": 12,
+          "icon_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/1ee7d2bb144e4ac9b5dab00ee6ee4c7a~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472894\u0026x-signature=YkamhWdMuiEwfN1sX9vQ%2BPnhf5M%3D",
+          "id": "7342819789989052470",
+          "is_favorited": false,
+          "is_free": true,
+          "listed_at": "1709813558",
+          "name": "语音转文字",
+          "readme": "{\"0\":{\"ops\":[{\"insert\":\"自动分析音频URL，并将音频转录为文本。\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+          "seller": {
+            "avatar_url": "https://p26-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/27f16e4436f6d9fcd23cc6678cd85003.png~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd\u0026x-expires=1712472895\u0026x-signature=KBMPMJfASqcmxViwlbq2Zw2TMv4%3D",
+            "id": "0",
+            "name": "扣子官方"
+          },
+          "status": 1
+        },
+        "plugin_extra": {
+          "bots_use_count": 10,
+          "tools": [
+            {
+              "description": "读取音频url链接，并将音频转为文字",
+              "id": "7340163546581532706",
+              "name": "SpeechToText",
+              "parameters": [
+                {
+                  "description": "音频url链接",
+                  "name": "url",
+                  "required": true,
+                  "sub_params": [],
+                  "type": "string"
+                }
+              ]
+            }
+          ],
+          "total_api_count": 1
+        }
+      }
+    ],
+    "total": 0
+  },
+  "message": ""
+}
