@@ -1,3 +1,9 @@
+/**
+ * 处理扣子插件商店的json数据 -> execl
+ * 
+*/
+
+
 const fs = require('fs');
 const XLSX = require('xlsx');
 

@@ -1,0 +1,80 @@
+
+## [Zindle](https://www.coze.cn/store/bot/7340915539692486707)
+### Prompt
+```md
+
+```
+### 描述
+推荐一本书
+### 开场白
+
+### 开场白预置问题
+
+### 插件信息
+```json
+{
+  "7288585141298102332": {
+    "description": "从Bing搜索任何信息和网页URL。",
+    "icon_url": "https://lf6-appstore-sign.oceancloudapi.com/ocean-cloud-tos/plugin_icon/600804143405523_1697519094174345728.jpeg?lk3s=cd508e2b&x-expires=1710140212&x-signature=uZng7VaYUn0ZnLynuWRxu%2F5Zzr8%3D",
+    "id": "7288585141298102332",
+    "name": "必应搜索",
+    "plugin_status": 4,
+    "plugin_type": 1
+  }
+}
+```
+### 插件详细设置
+```json
+{
+  "7288585141298118716": {
+    "description": "必应搜索引擎。当你需要搜索你不知道的信息，比如天气、汇率、时事等，这个工具非常有用。但是绝对不要在用户想要翻译的时候使用它。",
+    "id": "7288585141298118716",
+    "name": "bingWebSearch",
+    "parameters": [
+      {
+        "description": "响应中返回的搜索结果数量。默认为10，最大值为50。实际返回结果的数量可能会少于请求的数量。",
+        "is_required": false,
+        "name": "count",
+        "sub_parameters": [],
+        "sub_type": "",
+        "type": "integer"
+      },
+      {
+        "description": "从返回结果前要跳过的基于零的偏移量。默认为0。",
+        "is_required": false,
+        "name": "offset",
+        "sub_parameters": [],
+        "sub_type": "",
+        "type": "integer"
+      },
+      {
+        "description": "用户的搜索查询词。查询词不能为空。",
+        "is_required": false,
+        "name": "query",
+        "sub_parameters": [],
+        "sub_type": "",
+        "type": "string"
+      }
+    ],
+    "plugin_id": "7288585141298102332"
+  }
+}
+```
+### 知识库信息
+```json
+{
+  "auto": true,
+  "knowledge_info": [],
+  "min_score": 0.5,
+  "search_strategy": 0,
+  "top_k": 3
+}
+```
+### 工作流设置
+```json
+[]
+```
+### 工作流详细设置
+```json
+{}
+```

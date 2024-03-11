@@ -4,6 +4,7 @@ const axios = require('axios');
 const XLSX = require('xlsx');
 const sleep = require('util').promisify(setTimeout);
 
+// 爬取时所需要的request header; 直接 https://www.coze.cn/store/bot 中去复制 /api/marketplace/product/category/list 请求的request header
 const headers = {
   "authority": "www.coze.cn",
   "accept": "application/json, text/plain, */*",
@@ -23,14 +24,32 @@ const headers = {
 
 // 请求查询类目的接口，获取每个类目的 ID
 function getCategoryIds() {
-    const params = {
-        entity_type: 1,
-        msToken: 'Jk-qB9VZP8vu0RBpVVyToyyNrKrKhtkHFodaufRvKsh4cNGwz6RDi3wDz_F5vjjngUgq4pjTvTA25jpaSC4PMBbtvGxjlNMsdBe06eIBBkwJKFERSVk6k6F-aMQBBSk=',
-        a_bogus: 'OyW0MfLhdD2ThfLX55ILfY3qVIB3Y2/r0SVkMDhegnfeO639HMPj9exozTzvRIyjLT/AIeSjy4hbTpcprQV90Zwf98vx/25DsESkKl3dso0j53inCy8mE0iL5XsAtePQsvHlEKi8o7/aSYjkAnAj-kIAP62kFobyifELtlS='
-    };
+    // const params = {
+    //     entity_type: 1,
+    //     msToken: 'Jk-qB9VZP8vu0RBpVVyToyyNrKrKhtkHFodaufRvKsh4cNGwz6RDi3wDz_F5vjjngUgq4pjTvTA25jpaSC4PMBbtvGxjlNMsdBe06eIBBkwJKFERSVk6k6F-aMQBBSk=',
+    //     a_bogus: 'OyW0MfLhdD2ThfLX55ILfY3qVIB3Y2/r0SVkMDhegnfeO639HMPj9exozTzvRIyjLT/AIeSjy4hbTpcprQV90Zwf98vx/25DsESkKl3dso0j53inCy8mE0iL5XsAtePQsvHlEKi8o7/aSYjkAnAj-kIAP62kFobyifELtlS='
+    // };
 
+    // 爬取所有类目
     // const response = await axios.get('https://www.coze.cn/api/marketplace/product/category/list', { params, headers });
+
+    //  已经爬取到的所有类目
+    // 注意：接下来爬取每个类目下的所有机器人时，推荐每次就爬取一个类目，否则可能会被封账号
     const categories  = [
+      // {
+      //   "active_icon_url": "",
+      //   "icon_url": "",
+      //   "id": "1",
+      //   "index": 14,
+      //   "name": "推荐"
+      // },
+      {
+        "active_icon_url": "",
+        "icon_url": "",
+        "id": "2",
+        "index": 13,
+        "name": "最新"
+      },
       // {
       //   "active_icon_url": "",
       //   "icon_url": "",
@@ -121,7 +140,7 @@ function getCategoryIds() {
 
 // 根据类目 ID 获取数据并存储到 JSON 文件中
 async function fetchDataAndSave(categoryId, categoryName) {
-  let pageNum = 1;
+  let pageNum = 35;
   let products = [];
 
   while (true) {
@@ -136,6 +155,17 @@ async function fetchDataAndSave(categoryId, categoryName) {
           a_bogus: 'mjW0QQ0vmDfkkDu654OLfY3qVRp3Ykzj0SVkMDheGVvwPy39HMOw9exExXiv4nDjLT/AIeSjy4hbTpcprQVr8Hwf98vx/25DsESkKl3dso0j53inCy8mE0iL5XsAtePQsvHlEKi8o7/aSYjkAnAj-kIAP62kFobyifELtUW='
       };
 
+      // 处理 推荐 最新类目
+      if (["1", "2"].includes(categoryId)) {
+        delete params.category_id
+        if(categoryId === "1") {
+          params.source = 1
+        }
+
+        if(categoryId === "2") {
+          params.sort_type = 2
+        }
+      }
 
       console.log(params)
 
@@ -233,9 +263,9 @@ async function fetchDataAndSave(categoryId, categoryName) {
 
 async function processAndExportData(products, categoryName) {
   const formattedData = products.map(product => ({
-    '机器人名': product.meta_info.name,
-    '所属类目': product.meta_info.category.name,
-    '创作者': product.meta_info.seller.name,
+    '机器人名': product.meta_info && product.meta_info.name ? product.meta_info.name  : '',
+    '所属类目': product.meta_info.category && product.meta_info.category.name ? product.meta_info.category.name : '',
+    '创作者':  product.meta_info.seller && product.meta_info.seller.name  ? product.meta_info.seller.name : '',
     '使用人数': product.bot_extra.user_count,
     '收藏人数': product.meta_info.favorite_count,
     '地址': `https://www.coze.cn/store/bot/${product.meta_info.id}`,
@@ -284,8 +314,8 @@ async function processAndExportData(products, categoryName) {
 
 // 主函数：执行爬取和导出操作
 async function main() {
+  // 爬取所有类目
   const categoryIds = getCategoryIds();
-
   for (const category of categoryIds) {
       const products = await fetchDataAndSave(category.id, category.name);
   }
